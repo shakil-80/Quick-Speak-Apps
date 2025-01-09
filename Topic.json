@@ -721,7 +721,7 @@
     "✅Playing golf is a really expensive hobby. Only the rich can afford to buy golf supplies. = গলফ খেলা একটি খুব ব্যয়বহুল শখ। শুধু ধনী মানুষই গলফের সরঞ্জাম কিনতে সক্ষম।!!"
   ]
 },
-  
+
 {
   "title": "Music",
   "tex": [
@@ -813,6 +813,1610 @@
     "⚠️At what time do people in your country usually go on holiday? = আপনার দেশে সাধারণত মানুষ কখন ছুটিতে যায়?!!",
     "✅It depends on what job people have. When they have a break from work, they will find somewhere to travel. = এটি মানুষের চাকরি অনুযায়ী নির্ভর করে। যখন তারা কাজ থেকে বিরতি নেয়, তখন তারা কোথাও ভ্রমণ করতে যাবে।!!"
   ]
+},
+
+{
+    "title": "ANIMALS",
+    "tex": [
+        " ⚠️Are you an animal lover? = আপনি কি প্রাণীপ্রেমী? !!",
+        " ✅Yes, I am. I love animals. = হ্যাঁ, আমি প্রাণী ভালোবাসি। !!",
+        
+        " ⚠️Are you raising any pets? = আপনি কি কোনো পোষা প্রাণী পালন করছেন? !!",
+        " ✅Yes, I have a pitbull puppy at home. = হ্যাঁ, আমার বাড়িতে একটি পিটবুলের ছানা রয়েছে। !!",
+        
+        " ⚠️What is it like? = এটি কেমন? !!",
+        " ✅My puppy is friendly, highly intelligent and well-behaved. He always waves his tail and licks my hand to welcome me home. = আমার ছানাটি বন্ধুসুলভ, অত্যন্ত বুদ্ধিমান এবং ভদ্র। সে আমাকে বাড়িতে স্বাগত জানাতে সবসময় তার লেজ নাড়ায় এবং আমার হাত চেটে দেয়। !!",
+        
+        " ⚠️What does it look like? = এটি দেখতে কেমন? !!",
+        " ✅He’s a medium-sized puppy with a strong neck, broad chest and brown hair. = এটি একটি মাঝারি আকারের ছানা, যার শক্ত গলা, চওড়া বুক এবং বাদামি লোম রয়েছে। !!",
+        
+        " ⚠️What are its habits? = এর অভ্যাসগুলো কী? !!",
+        " ✅My Pitbull puppy loves doing exercise every day. When he plays, he plays to win. = আমার পিটবুল ছানাটি প্রতিদিন ব্যায়াম করতে পছন্দ করে। সে যখন খেলে, জেতার জন্য খেলে। !!",
+        
+        " ⚠️What do you usually do with it? = আপনি সাধারণত এর সাথে কী করেন? !!",
+        " ✅We usually play tennis together. My puppy helps me pick up tennis balls. = আমরা সাধারণত একসঙ্গে টেনিস খেলি। আমার ছানাটি আমাকে টেনিস বল কুড়াতে সাহায্য করে। !!",
+        
+        " ⚠️What does it like to eat? = এটি কী খেতে পছন্দ করে? !!",
+        " ✅He loves beef, chicken and some dairy products. = এটি গরুর মাংস, মুরগির মাংস এবং কিছু দুগ্ধজাত পণ্য খেতে পছন্দ করে। !!",
+        
+        " ⚠️What do you learn from it? = আপনি এটি থেকে কী শিখেন? !!",
+        " ✅He teaches me loyalty. An adult pitbull may make me feel safe. = এটি আমাকে বিশ্বস্ততা শেখায়। একটি পূর্ণবয়স্ক পিটবুল আমাকে সুরক্ষিত অনুভব করাতে পারে। !!",
+        
+        " ⚠️Why do people keep pets? = মানুষ কেন পোষা প্রাণী রাখে? !!",
+        " ✅They consider pets as their loyal companions which make their life better. = তারা পোষা প্রাণীকে তাদের বিশ্বস্ত সঙ্গী হিসেবে বিবেচনা করে, যা তাদের জীবনকে আরও ভালো করে তোলে। !!",
+        
+        " ⚠️Are pets well looked after in your country? = আপনার দেশে কি পোষা প্রাণীদের ভালোভাবে যত্ন নেওয়া হয়? !!",
+        " ✅Yes. People in my country love pets. = হ্যাঁ। আমার দেশে মানুষ পোষা প্রাণী ভালোবাসে। !!"
+    ]
+},
+
+{
+    "title": "A PRACTICAL SKILL",
+    "tex": [
+        " ⚠️What practical skill have you learned? = আপনি কোন ব্যবহারিক দক্ষতা শিখেছেন? !!",
+        " ✅Cooking is a practical skill that I have practiced recently. = রান্না একটি ব্যবহারিক দক্ষতা যা আমি সম্প্রতি অনুশীলন করেছি। !!",
+        
+        " ⚠️Who taught you that skill? = আপনাকে এই দক্ষতা কে শিখিয়েছেন? !!",
+        " ✅My mom is the best cook. She taught me everything about how to make soup, salad, omelettes, cake, etc. = আমার মা সেরা রাঁধুনি। তিনি আমাকে স্যুপ, সালাদ, ওমলেট, কেক ইত্যাদি তৈরির সবকিছু শিখিয়েছেন। !!",
+        
+        " ⚠️How did you learn it? = আপনি এটি কীভাবে শিখেছেন? !!",
+        " ✅She shows me how to buy food, prepare ingredients, and cook meals whenever she’s in the kitchen. I learn how to boil, grill, steam, fry, braise, etc. day by day. = তিনি যখন রান্নাঘরে থাকেন, তখন কীভাবে খাবার কিনতে হয়, উপকরণ প্রস্তুত করতে হয় এবং খাবার রান্না করতে হয় তা আমাকে দেখান। আমি ধীরে ধীরে কীভাবে সেদ্ধ, গ্রিল, ভাপানো, ভাজা এবং ব্রেইজ করতে হয় তা শিখি। !!",
+        
+        " ⚠️Why did you learn it? = আপনি কেন এটি শিখেছেন? !!",
+        " ✅I just want to be a good cook like my mom when I get married. I will prepare the best dishes for my husband and children. = আমি বিয়ের পর আমার মায়ের মতো একজন ভালো রাঁধুনি হতে চাই। আমি আমার স্বামী এবং সন্তানদের জন্য সেরা খাবার প্রস্তুত করব। !!",
+        
+        " ⚠️How long did it take for you to learn it? = এটি শিখতে আপনার কতক্ষণ সময় লেগেছে? !!",
+        " ✅I learned it in 4 years. The skill seems to be strengthened when I live apart from my family for studying. = আমি এটি ৪ বছরে শিখেছি। পরিবার থেকে দূরে পড়াশোনার জন্য বসবাস করার সময় এই দক্ষতাটি আরও উন্নত হয়েছে বলে মনে হয়। !!",
+        
+        " ⚠️How often do you use this skill? = আপনি কত ঘন ঘন এই দক্ষতা ব্যবহার করেন? !!",
+        " ✅I cook every day. I also love homemade food. = আমি প্রতিদিন রান্না করি। আমি বাড়ির তৈরি খাবারও ভালোবাসি। !!",
+        
+        " ⚠️How has this skill helped you? = এই দক্ষতা আপনাকে কীভাবে সাহায্য করেছে? !!",
+        " ✅It makes me more confident whenever I go on a picnic outside. I’m always responsible for the BBQ. = এটি আমাকে বাইরে পিকনিকে গেলে আরও আত্মবিশ্বাসী করে তোলে। আমি সবসময় বিবিকিউর দায়িত্বে থাকি। !!",
+        
+        " ⚠️Do people in your family know this skill, too? = আপনার পরিবারের লোকেরাও কি এই দক্ষতা জানে? !!",
+        " ✅My younger sister knows how to cook, too. She has just started learning. = আমার ছোট বোনও রান্না করতে জানে। সে কেবল শিখতে শুরু করেছে। !!",
+        
+        " ⚠️Do all skills need learning? = সব দক্ষতা কি শেখার প্রয়োজন? !!",
+        " ✅Yes, they do. ‘’Practice makes perfect.’’ = হ্যাঁ, সব দক্ষতা শেখার প্রয়োজন। 'চর্চা মানুষকে নিখুঁত করে তোলে।' !!",
+        
+        " ⚠️How is this skill important to you? = এই দক্ষতা আপনার জন্য কতটা গুরুত্বপূর্ণ? !!",
+        " ✅It’s an essential life skill. All women need to know this to keep their family warm and happy. = এটি একটি অত্যাবশ্যক জীবন দক্ষতা। পরিবারের উষ্ণতা এবং সুখ ধরে রাখতে সব নারীরই এটি জানা উচিত। !!"
+    ]
+},
+
+{
+    "title": "SPORTS",
+    "tex": [
+        " ⚠️What sport do you like? = আপনি কোন খেলাটি পছন্দ করেন? !!",
+        " ✅I like playing badminton. = আমি ব্যাডমিন্টন খেলতে পছন্দ করি। !!",
+        
+        " ⚠️Is it easy to play that sport? = এটি খেলা কি সহজ? !!",
+        " ✅Yes, it’s pretty easy to play. = হ্যাঁ, এটি খেলা বেশ সহজ। !!",
+        
+        " ⚠️Is that sport popular in your country? = আপনার দেশে কি এই খেলা জনপ্রিয়? !!",
+        " ✅Yes, it is. = হ্যাঁ, এটি জনপ্রিয়। !!",
+        
+        " ⚠️How long have you been practicing that sport? = আপনি কতদিন ধরে এই খেলা অনুশীলন করছেন? !!",
+        " ✅I have been practicing it for 5 years. = আমি ৫ বছর ধরে এটি অনুশীলন করছি। !!",
+        
+        " ⚠️Who do you play sports with? = আপনি কার সাথে খেলাধুলা করেন? !!",
+        " ✅I play badminton with my friends, sometimes with my brother. = আমি আমার বন্ধুদের সাথে, কখনও কখনও আমার ভাইয়ের সাথে ব্যাডমিন্টন খেলি। !!",
+        
+        " ⚠️How often do you play that sport? = আপনি কতবার এই খেলা খেলেন? !!",
+        " ✅I play badminton every weekend. = আমি প্রতি সপ্তাহান্তে ব্যাডমিন্টন খেলি। !!",
+        
+        " ⚠️What benefits can you get from that sport? = আপনি এই খেলাটি থেকে কী সুবিধা পেতে পারেন? !!",
+        " ✅It helps strengthen my muscles because while playing, I have to move continuously. It is good to burn calories as well. = এটি আমার পেশি শক্তিশালী করতে সাহায্য করে কারণ খেলার সময় আমাকে ক্রমাগত চলতে হয়। এটি ক্যালোরি পোড়ানোর জন্যও ভালো। !!",
+        
+        " ⚠️Do you like watching football? Online or offline? = আপনি কি ফুটবল দেখতে পছন্দ করেন? অনলাইনে নাকি অফলাইনে? !!",
+        " ✅Yes, I do. I prefer watching football offline and online. Going to the stadium, shouting and cheering are good to release stress. = হ্যাঁ, আমি পছন্দ করি। আমি অনলাইনে এবং অফলাইনে ফুটবল দেখতে পছন্দ করি। স্টেডিয়ামে যাওয়া, চিৎকার করা এবং উল্লাস করা মানসিক চাপ মুক্ত করতে ভালো। !!",
+        
+        " ⚠️What is your favorite football team? = আপনার প্রিয় ফুটবল দল কোনটি? !!",
+        " ✅I like the Manchester United Football Club, also known as “The Red Devils”. = আমি ম্যানচেস্টার ইউনাইটেড ফুটবল ক্লাবকে পছন্দ করি, যা 'দ্য রেড ডেভিলস' নামেও পরিচিত। !!",
+        
+        " ⚠️Why is sport important? = খেলা কেন গুরুত্বপূর্ণ? !!",
+        " ✅Sports are sources of recreation. People can learn how to encourage team spirit when they play sports, too. = খেলা বিনোদনের উৎস। খেলাধুলার সময় মানুষ দলগত মনোভাব উৎসাহিত করতে শিখতে পারে। !!"
+    ]
+},
+
+{
+    "title": "A SCHOOL",
+    "tex": [
+        " ⚠️What school did you go to? = আপনি কোন স্কুলে গিয়েছিলেন? !!",
+        " ✅I went to Millennium high school, founded in 1999. = আমি মিলেনিয়াম হাই স্কুলে গিয়েছিলাম, যা ১৯৯৯ সালে প্রতিষ্ঠিত। !!",
+        
+        " ⚠️Where is the school located? = স্কুলটি কোথায় অবস্থিত? !!",
+        " ✅It’s located in New York City, United States. = এটি যুক্তরাষ্ট্রের নিউইয়র্ক সিটিতে অবস্থিত। !!",
+        
+        " ⚠️Do you like the architecture of the school? = আপনি কি স্কুলের স্থাপত্য পছন্দ করেন? !!",
+        " ✅Yes, I do. The architecture is not really impressive, but I like it that the building’s architects left plenty of space for lounging. = হ্যাঁ, আমি করি। স্থাপত্যটি খুব বেশি চিত্তাকর্ষক নয়, তবে আমি পছন্দ করি যে ভবনের স্থপতিরা অনেক জায়গা ফাঁকা রেখেছেন আরাম করার জন্য। !!",
+        
+        " ⚠️What are the teachers like? = শিক্ষকরা কেমন? !!",
+        " ✅Most of the teachers there are helpful and friendly. I especially like Mr. Mike, my Physics teacher. = সেখানে অধিকাংশ শিক্ষক সহায়ক এবং বন্ধুত্বপূর্ণ। আমি বিশেষ করে মি. মাইককে পছন্দ করি, যিনি আমার পদার্থবিজ্ঞানের শিক্ষক। !!",
+        
+        " ⚠️How long have you spent there? = আপনি সেখানে কতদিন কাটিয়েছেন? !!",
+        " ✅I have spent 3 years of upper secondary school there. = আমি সেখানে উচ্চ মাধ্যমিক স্কুলের ৩ বছর কাটিয়েছি। !!",
+        
+        " ⚠️Is that a single-sex school? = এটি কি শুধুমাত্র একটি লিঙ্গের স্কুল? !!",
+        " ✅No, it isn’t. This is a unisex school. = না, এটি নয়। এটি একটি ইউনিসেক্স স্কুল। !!",
+        
+        " ⚠️Do you like the school uniform? = আপনি কি স্কুলের ইউনিফর্ম পছন্দ করেন? !!",
+        " ✅We don’t wear uniforms at school, actually. = আসলে, আমরা স্কুলে ইউনিফর্ম পরি না। !!",
+        
+        " ⚠️Why do you enjoy the time there? = আপনি সেখানে সময় কাটানো কেন উপভোগ করেন? !!",
+        " ✅Although I had to deal with quite a heavy workload, I enjoy the relaxing atmosphere when hanging out with friends in the cafeteria there. = যদিও আমাকে প্রচুর কাজ সামলাতে হতো, আমি ক্যান্টিনে বন্ধুদের সাথে সময় কাটানোর আরামদায়ক পরিবেশ উপভোগ করতাম। !!",
+        
+        " ⚠️What important lesson did you learn from school? = আপনি স্কুল থেকে কী গুরুত্বপূর্ণ পাঠ শিখেছেন? !!",
+        " ✅I learned how to work in a group in which there are many friends coming from different cultures. That’s the lesson of cooperation. = আমি একটি দলে কাজ করতে শিখেছি যেখানে বিভিন্ন সংস্কৃতি থেকে আসা অনেক বন্ধু রয়েছে। এটি সহযোগিতার শিক্ষা। !!",
+        
+        " ⚠️Will you recommend that school to others? = আপনি কি অন্যদের সেই স্কুল সুপারিশ করবেন? !!",
+        " ✅Yes, of course. I’m proud to recommend Millennium High School to anyone who is searching for a good place to learn. = হ্যাঁ, অবশ্যই। আমি গর্বিতভাবে মিলেনিয়াম হাই স্কুল সুপারিশ করব যে কেউ একটি ভালো শিক্ষার জায়গা খুঁজছে। !!"
+    ]
+},
+
+{
+    "title": "FESTIVAL",
+    "tex": [
+        " ⚠️How many popular festivals are there in your country? = আপনার দেশে কতগুলো জনপ্রিয় উৎসব আছে? !!",
+        " ✅There are many: New Year’s day, Martin Luther King day, Valentine’s day, St. Patrick day, Easter, etc. = অনেকগুলো আছে: নববর্ষ দিবস, মার্টিন লুথার কিং দিবস, ভ্যালেন্টাইন ডে, সেন্ট প্যাট্রিক দিবস, ইস্টার, ইত্যাদি। !!",
+        
+        " ⚠️What is the most important festival in your country? = আপনার দেশে সবচেয়ে গুরুত্বপূর্ণ উৎসব কোনটি? !!",
+        " ✅I believe that New Year’s day is the most important one since it’s a chance for family reunion and parties. People gather together to welcome the new year. = আমার মনে হয় নববর্ষ দিবস সবচেয়ে গুরুত্বপূর্ণ, কারণ এটি পরিবারের পুনর্মিলন এবং পার্টির একটি সুযোগ। মানুষ নতুন বছরকে স্বাগত জানাতে একত্রিত হয়। !!",
+        
+        " ⚠️When does it take place? = এটি কখন হয়? !!",
+        " ✅It occurs on January 1st. = এটি ১ জানুয়ারি হয়। !!",
+        
+        " ⚠️Where’s the festival celebrated? = উৎসবটি কোথায় উদযাপিত হয়? !!",
+        " ✅The New Year’s day is celebrated all over the country. Each family has its own way to celebrate the day. = নববর্ষ দিবস পুরো দেশে উদযাপিত হয়। প্রতিটি পরিবারের দিনটি উদযাপনের নিজস্ব পদ্ধতি থাকে। !!",
+        
+        " ⚠️What do people do to prepare for the festival? = উৎসবের জন্য মানুষ কীভাবে প্রস্তুতি নেয়? !!",
+        " ✅Before New Year’s day, people go shopping for food and drinks, repair the house or put up decor. = নববর্ষ দিবসের আগে, মানুষ খাবার এবং পানীয় কিনতে যায়, বাড়ি মেরামত করে বা সাজসজ্জা করে। !!",
+        
+        " ⚠️Who can join the festival? = উৎসবে কে অংশ নিতে পারে? !!",
+        " ✅It’s a day for everybody. = এটি সবার জন্য একটি দিন। !!",
+        
+        " ⚠️What do people do in the festival? = মানুষ উৎসবে কী করে? !!",
+        " ✅On New Year’s Eve, people have a party with traditional food and drinks. After that, they may visit friends or relatives, go to the movies or watch sports. = নববর্ষের আগের রাতে, মানুষ ঐতিহ্যবাহী খাবার এবং পানীয়সহ একটি পার্টি করে। এর পরে, তারা বন্ধু বা আত্মীয়দের বাড়িতে যেতে পারে, সিনেমা দেখতে পারে বা খেলাধুলা দেখতে পারে। !!",
+        
+        " ⚠️What’s special about that festival? = সেই উৎসবের বিশেষত্ব কী? !!",
+        " ✅It marks the end of a year and celebrates a new year. People believe that the things they do on the first day will bring good luck and prosperity to them during the whole year. = এটি একটি বছরের সমাপ্তি এবং নতুন বছরের উদযাপন নির্দেশ করে। মানুষ বিশ্বাস করে যে তারা প্রথম দিনে যা করে তা সারা বছর তাদের জন্য সৌভাগ্য এবং সমৃদ্ধি বয়ে আনবে। !!",
+        
+        " ⚠️Is the festival culturally related? = উৎসবটি কি সংস্কৃতির সাথে সম্পর্কিত? !!",
+        " ✅Sure, the festival is an integral part of culture. = অবশ্যই, উৎসবটি সংস্কৃতির একটি অবিচ্ছেদ্য অংশ। !!",
+        
+        " ⚠️Why is a festival important? = একটি উৎসব কেন গুরুত্বপূর্ণ? !!",
+        " ✅It adds structure to our social lives and connects us with our families and backgrounds. = এটি আমাদের সামাজিক জীবনে কাঠামো যোগ করে এবং আমাদের পরিবার এবং পটভূমির সাথে সংযুক্ত করে। !!"
+    ]
+},
+
+{
+    "title": "FOOD",
+    "tex": [
+        " ⚠️Do you like to cook? = আপনি কি রান্না করতে পছন্দ করেন? !!",
+        " ✅Yes, I do. Cooking helps me feel relaxed after long hours working. = হ্যাঁ, আমি করি। রান্না আমাকে দীর্ঘ সময় কাজ করার পর আরামদায়ক বোধ করতে সাহায্য করে। !!",
+        
+        " ⚠️Is there any kind of food you don’t like? = এমন কোনো খাবার আছে যা আপনি পছন্দ করেন না? !!",
+        " ✅I don’t really like fried chicken, which is very high in fat. = আমি ভাজা মুরগি বিশেষ পছন্দ করি না, কারণ এতে অনেক চর্বি থাকে। !!",
+        
+        " ⚠️Do you eat out or cook at home? = আপনি বাইরে খান না বাড়িতে রান্না করেন? !!",
+        " ✅I usually cook at home, sometimes when I’m busy, I go out to eat. = আমি সাধারণত বাড়িতে রান্না করি, তবে মাঝে মাঝে ব্যস্ত থাকলে বাইরে খেতে যাই। !!",
+        
+        " ⚠️How often do you cook? = আপনি কত ঘনঘন রান্না করেন? !!",
+        " ✅Just when I have free time. My mom is often responsible for preparing meals. She’s the best cook ever. = শুধুমাত্র যখন আমার ফ্রি সময় থাকে। আমার মা প্রায়ই খাবার প্রস্তুত করার দায়িত্ব নেন। তিনি সর্বকালের সেরা রাঁধুনি। !!",
+        
+        " ⚠️What’s your favorite food? = আপনার প্রিয় খাবার কী? !!",
+        " ✅I’m addicted to sushi. I can eat sushi every day. = আমি সুশি খেতে আসক্ত। আমি প্রতিদিন সুশি খেতে পারি। !!",
+        
+        " ⚠️Is it Western or Asian cuisine? = এটি কি পশ্চিমা না এশীয় খাবার? !!",
+        " ✅It’s Asian cuisine. Sushi is derived from Japan. = এটি এশীয় খাবার। সুশি জাপান থেকে এসেছে। !!",
+        
+        " ⚠️Is it easy to make your favorite food? = আপনার প্রিয় খাবার তৈরি করা কি সহজ? !!",
+        " ✅Yes, I guess. The recipe is quite simple. = হ্যাঁ, আমার মনে হয়। রেসিপিটি বেশ সহজ। !!",
+        
+        " ⚠️What ingredients do you need to make that food? = সেই খাবার তৈরি করতে কী উপাদান প্রয়োজন? !!",
+        " ✅I would need rice, eggs, meat, seafood, and vegetables. = আমার চাল, ডিম, মাংস, সামুদ্রিক খাবার এবং সবজি প্রয়োজন। !!",
+        
+        " ⚠️What do you think about fast food? = ফাস্ট ফুড সম্পর্কে আপনার কী ধারণা? !!",
+        " ✅I don’t really like fast food. It’s not healthy at all. = আমি ফাস্ট ফুড বিশেষ পছন্দ করি না। এটি মোটেই স্বাস্থ্যকর নয়। !!",
+        
+        " ⚠️Would you say that you have a healthy diet? = আপনি কি বলবেন যে আপনার খাদ্যাভ্যাস স্বাস্থ্যকর? !!",
+        " ✅Yes, I would. I prefer eating vitamins, protein and less fat. = হ্যাঁ, আমি বলব। আমি ভিটামিন, প্রোটিন এবং কম চর্বিযুক্ত খাবার খেতে পছন্দ করি। !!"
+    ]
+},
+
+{
+    "title": "HOUSEHOLD APPLIANCE",
+    "tex": [
+        " ⚠️What’s the most useful household appliance that you have? = আপনার কাছে সবচেয়ে উপযোগী গৃহস্থালী যন্ত্রপাতি কোনটি? !!",
+        " ✅That’s definitely the washing machine. = এটি অবশ্যই ওয়াশিং মেশিন। !!",
+        
+        " ⚠️When did you buy it? = আপনি এটি কখন কিনেছেন? !!",
+        " ✅I bought it 2 years ago. Actually, my mom gave it to me as a birthday present. = আমি এটি ২ বছর আগে কিনেছিলাম। আসলে, আমার মা এটি আমাকে জন্মদিনে উপহার দিয়েছিলেন। !!",
+        
+        " ⚠️Is it expensive? = এটি কি দামী? !!",
+        " ✅I don’t think it cost that much. = আমি মনে করি না এটি খুব বেশি দামী। !!",
+        
+        " ⚠️Is it easy to use? = এটি ব্যবহার করা কি সহজ? !!",
+        " ✅Yes, it’s pretty simple. = হ্যাঁ, এটি বেশ সহজ। !!",
+        
+        " ⚠️How does it work? = এটি কীভাবে কাজ করে? !!",
+        " ✅Just put clothes in, press the desired button and everything will be done within several minutes. = শুধু কাপড় ঢোকান, পছন্দের বোতাম চাপুন এবং কয়েক মিনিটের মধ্যেই সবকিছু হয়ে যাবে। !!",
+        
+        " ⚠️How often do you use it? = আপনি এটি কত ঘনঘন ব্যবহার করেন? !!",
+        " ✅I wash my clothes twice a week. = আমি সপ্তাহে দু'বার কাপড় ধুই। !!",
+        
+        " ⚠️Will you replace it with a more modern one? = আপনি এটি আরও আধুনিক একটি দিয়ে প্রতিস্থাপন করবেন কি? !!",
+        " ✅No, because it was a present and it’s still working well. = না, কারণ এটি একটি উপহার ছিল এবং এটি এখনও ভালো কাজ করছে। !!",
+        
+        " ⚠️How does your life change with that household appliance? = সেই গৃহস্থালী যন্ত্রপাতি দিয়ে আপনার জীবন কীভাবে বদলেছে? !!",
+        " ✅It makes our life more convenient. We can save time as well. = এটি আমাদের জীবনকে আরও সুবিধাজনক করে তোলে। আমরা সময়ও বাঁচাতে পারি। !!",
+        
+        " ⚠️Do you think that household appliances will make people lazier and lazier? = আপনি কি মনে করেন গৃহস্থালী যন্ত্রপাতি মানুষকে আরও অলস করে তুলবে? !!",
+        " ✅Yes, to some extent. With the help of electronic equipment, people tend to forget manual tasks and become lazier. = হ্যাঁ, কিছুটা হলেও। ইলেকট্রনিক যন্ত্রপাতির সাহায্যে মানুষ ম্যানুয়াল কাজ ভুলে যেতে থাকে এবং আরও অলস হয়ে পড়ে। !!"
+    ]
+},
+
+{
+    "title": "A MUSIC BAND",
+    "tex": [
+        " ⚠️What’s your favorite music band? = আপনার প্রিয় ব্যান্ডটি কোনটি? !!",
+        " ✅I’m a big fan of One Direction. There are 5 singers in the band. = আমি ওয়ান ডিরেকশনের বড় ভক্ত। ব্যান্ডটিতে পাঁচজন গায়ক আছেন। !!",
+        
+        " ⚠️Is it famous around the world? = এটি কি বিশ্বজুড়ে বিখ্যাত? !!",
+        " ✅Yes, it is. The band is well known around the world. Almost all teenagers love them. = হ্যাঁ, এটি বিশ্বজুড়ে বিখ্যাত। প্রায় সব কিশোরই তাদের পছন্দ করে। !!",
+        
+        " ⚠️What’s their taste of music? = তাদের সঙ্গীতের ধরণ কী? !!",
+        " ✅They sing Pop music. Their most famous song may be “What Makes You Beautiful’’. = তারা পপ সঙ্গীত গায়। তাদের সবচেয়ে বিখ্যাত গান হতে পারে “হোয়াট মেকস ইউ বিউটিফুল”। !!",
+        
+        " ⚠️Are they good at dancing? = তারা কি নাচে ভালো? !!",
+        " ✅Yes, I think so. I fall in love with their every step. = হ্যাঁ, আমি তাই মনে করি। তাদের প্রতিটি স্টেপ আমাকে মুগ্ধ করে। !!",
+        
+        " ⚠️Have you ever seen them in real life? = আপনি কি তাদের বাস্তবে কখনো দেখেছেন? !!",
+        " ✅Nope, I just watch them on media. I wish I will see them one day. = না, আমি শুধু তাদের মিডিয়ায় দেখি। আমি আশা করি একদিন তাদের দেখব। !!",
+        
+        " ⚠️How often do you come to their show? = আপনি কত ঘন ঘন তাদের শো দেখেন? !!",
+        " ✅I watch videos almost every day. Listening to their songs helps me chill out. = আমি প্রায় প্রতিদিন ভিডিও দেখি। তাদের গান শুনে আমি বিশ্রাম নিতে পারি। !!",
+        
+        " ⚠️Can you sing their songs? = আপনি কি তাদের গান গাইতে পারেন? !!",
+        " ✅Yes, but only one song. I just keep singing it over and over again every day. = হ্যাঁ, তবে শুধু একটি গান। আমি প্রতিদিন সেটি বারবার গাই। !!",
+        
+        " ⚠️Do your friends like them? = আপনার বন্ধুরা কি তাদের পছন্দ করে? !!",
+        " ✅Of course. We usually watch their performances and discuss it together. = অবশ্যই। আমরা সাধারণত তাদের পারফরম্যান্স দেখি এবং একসাথে আলোচনা করি। !!",
+        
+        " ⚠️Do they have anti-fans? = তাদের কি বিদ্বেষী ভক্ত আছে? !!",
+        " ✅Yes, every famous singer has anti-fans. = হ্যাঁ, প্রতিটি বিখ্যাত গায়কেরই বিদ্বেষী ভক্ত থাকে। !!"
+    ]
+},
+
+{
+    "title": "WEATHER",
+    "tex": [
+        " ⚠️What’s the weather like in your country? = আপনার দেশে আবহাওয়া কেমন? !!",
+        " ✅Well, there are 4 seasons: Spring, Summer, Fall, and Winter, which vary considerably in characteristics. = আচ্ছা, এখানে চারটি ঋতু আছে: বসন্ত, গ্রীষ্ম, শরৎ এবং শীত, যা বৈশিষ্ট্যে অনেকটাই ভিন্ন। !!",
+        
+        " ⚠️What kind of weather do you like? = আপনি কোন ধরনের আবহাওয়া পছন্দ করেন? !!",
+        " ✅I enjoy hot weather. There are more things to do when it’s sunny. I love swimming and sunbathing. = আমি গরম আবহাওয়া উপভোগ করি। রৌদ্রোজ্জ্বল দিনে করার মতো আরও অনেক কিছু থাকে। আমি সাঁতার কাটতে এবং রোদ পোহাতে পছন্দ করি। !!",
+        
+        " ⚠️What months have the best weather in your country? = আপনার দেশে কোন মাসে আবহাওয়া সবচেয়ে ভালো থাকে? !!",
+        " ✅I believe it depends. For me, the best weather is from June to August when it’s warm across the country. = আমি মনে করি এটি নির্ভর করে। আমার জন্য, জুন থেকে আগস্ট পর্যন্ত সময়টি সবচেয়ে ভালো, যখন পুরো দেশজুড়ে আবহাওয়া উষ্ণ থাকে। !!",
+        
+        " ⚠️Do you like it when it rains? = বৃষ্টি হলে আপনি কি তা পছন্দ করেন? !!",
+        " ✅Not at all. I hate raining. = একদম না। আমি বৃষ্টি অপছন্দ করি। !!",
+        
+        " ⚠️How does the weather affect your feelings? = আবহাওয়া আপনার অনুভূতিতে কেমন প্রভাব ফেলে? !!",
+        " ✅I usually have a bad mood when it rains. The rain reminds me of sad memories. = বৃষ্টি হলে আমার সাধারণত খারাপ মেজাজ হয়। বৃষ্টি আমাকে দুঃখজনক স্মৃতির কথা মনে করিয়ে দেয়। !!",
+        
+        " ⚠️How has the weather changed recently? = সম্প্রতি আবহাওয়া কীভাবে পরিবর্তিত হয়েছে? !!",
+        " ✅Due to global warming, the weather has become more and more unpredictable. It’s boiling hot in summer and freezing cold on winter days. = বৈশ্বিক উষ্ণায়নের কারণে আবহাওয়া আরও অনিশ্চিত হয়ে উঠেছে। গ্রীষ্মে অত্যন্ত গরম এবং শীতকালে প্রচণ্ড ঠান্ডা পড়ে। !!",
+        
+        " ⚠️Do you usually watch the weather forecast? = আপনি কি সাধারণত আবহাওয়ার পূর্বাভাস দেখেন? !!",
+        " ✅No, not very often. = না, খুব একটা না। !!",
+        
+        " ⚠️What’s your favorite season? Why? = আপনার প্রিয় ঋতু কোনটি? কেন? !!",
+        " ✅Let’s see. I love spring when trees and flowers blossom. = দেখা যাক। আমি বসন্ত পছন্দ করি, যখন গাছপালা এবং ফুল ফোটে। !!",
+        
+        " ⚠️What do you like to do when it’s windy? = যখন বাতাস থাকে তখন আপনি কী করতে পছন্দ করেন? !!",
+        " ✅When it’s windy, I like flying a kite with my friends. That’s interesting. = যখন বাতাস থাকে, আমি আমার বন্ধুদের সাথে ঘুড়ি ওড়াতে পছন্দ করি। এটি মজার। !!"
+    ]
+},
+
+{
+    "title": "NEIGHBOR",
+    "tex": [
+        " ⚠️Who is your neighbor? = আপনার প্রতিবেশী কে? !!",
+        " ✅My neighbor is a university student. He lives next to my apartment. = আমার প্রতিবেশী একজন বিশ্ববিদ্যালয় ছাত্র। সে আমার অ্যাপার্টমেন্টের পাশে থাকে। !!",
+        
+        " ⚠️When did you become neighbors? = আপনারা কখন প্রতিবেশী হলেন? !!",
+        " ✅I first met him when I moved to this apartment 2 years ago. = আমি তাকে প্রথম দেখেছিলাম যখন আমি ২ বছর আগে এই অ্যাপার্টমেন্টে এসেছিলাম। !!",
+        
+        " ⚠️Is he friendly? = সে কি বন্ধুসুলভ? !!",
+        " ✅Yes, he is. He always smiles when he sees me. = হ্যাঁ, সে বন্ধুসুলভ। সে আমাকে দেখলে সবসময় হাসে। !!",
+        
+        " ⚠️How often do you see him? = আপনি তাকে কতবার দেখেন? !!",
+        " ✅Every day at the gate. Sometimes I invite him to my apartment when I throw a party. = প্রতিদিন গেটে। কখনো কখনো আমি যখন পার্টি দিই তখন তাকে আমার অ্যাপার্টমেন্টে আমন্ত্রণ জানাই। !!",
+        
+        " ⚠️Do you have any problems with him? = তার সাথে কি আপনার কোনো সমস্যা হয়েছে? !!",
+        " ✅Only once when he sang karaoke too loud, which kept me awake all night. We ended up talking to each other the next day, and he never sang karaoke at midnight from then on. = শুধুমাত্র একবার যখন সে খুব জোরে করে ক্যারাওকে গেয়েছিল, যা আমাকে সারা রাত জেগে রেখেছিল। আমরা পরের দিন একে অপরের সাথে কথা বলেছিলাম, এবং তারপর থেকে সে আর কখনো মধ্যরাতে ক্যারাওকে গায়নি। !!",
+        
+        " ⚠️Does he usually help you? = সে কি সাধারণত আপনাকে সাহায্য করে? !!",
+        " ✅Yes, he does. He usually helps me run errands. = হ্যাঁ, করে। সে সাধারণত আমার বিভিন্ন কাজের জন্য সাহায্য করে। !!",
+        
+        " ⚠️Would you be sad if he moves to another area? = সে যদি অন্য এলাকায় চলে যায় তবে আপনি কি দুঃখিত হবেন? !!",
+        " ✅Yes, of course. That will upset me if he leaves. = হ্যাঁ, অবশ্যই। সে চলে গেলে তা আমাকে কষ্ট দেবে। !!",
+        
+        " ⚠️What’s the difference between friends and neighbors? = বন্ধু ও প্রতিবেশীর মধ্যে পার্থক্য কী? !!",
+        " ✅I’m not quite sure, but I think the difference may lie in the relationship. A friend can be someone you share your feelings with, while a neighbor can just be someone living next door. = আমি পুরোপুরি নিশ্চিত নই, তবে আমি মনে করি পার্থক্য সম্পর্কের মধ্যে থাকতে পারে। একজন বন্ধু এমন কেউ হতে পারে যার সাথে আপনি আপনার অনুভূতি শেয়ার করেন, আর একজন প্রতিবেশী হতে পারে শুধু পাশের বাড়িতে থাকা কেউ। !!",
+        
+        " ⚠️What do you need to be a good neighbor? = একজন ভালো প্রতিবেশী হতে হলে আপনার কী প্রয়োজন? !!",
+        " ✅Being respectful is the most important factor in building a good relationship. = সম্মান প্রদর্শন করা একটি ভালো সম্পর্ক গড়ে তোলার সবচেয়ে গুরুত্বপূর্ণ বিষয়। !!"
+    ]
+},
+
+{
+    "title": "NATURAL SCENERY",
+    "tex": [
+        " ⚠️Do you like visiting natural places? = আপনি কি প্রাকৃতিক স্থানে যেতে ভালোবাসেন? !!",
+        " ✅Yes, I do. Being close to nature helps me release stress and worry. = হ্যাঁ, আমি ভালোবাসি। প্রকৃতির কাছে থাকতে আমার স্ট্রেস এবং চিন্তা দূর করতে সাহায্য করে। !!",
+        
+        " ⚠️What’s the most impressive natural scenery you’ve ever seen? = আপনি কখনও যে সবচেয়ে চমৎকার প্রাকৃতিক দৃশ্য দেখেছেন তা কী? !!",
+        " ✅That’s the horseshoe of the Colorado River in Arizona. It’s such a great scenic place on Earth. = সেটি হল অ্যারিজোনার কোলোরাডো নদীর হর্সশু। এটি পৃথিবীর এক অসাধারণ প্রাকৃতিক স্থান। !!",
+        
+        " ⚠️When did you see it? = আপনি কখন এটি দেখেছিলেন? !!",
+        " ✅I visited the place last Summer holiday. = আমি গত গ্রীষ্মের ছুটিতে ওই স্থানটি পরিদর্শন করেছিলাম। !!",
+        
+        " ⚠️Who went with you? = কে কে আপনার সাথে গিয়েছিল? !!",
+        " ✅I went there with my family. We camped near the place. = আমি আমার পরিবারের সাথে গিয়েছিলাম। আমরা ওই স্থানের কাছে ক্যাম্পিং করেছিলাম। !!",
+        
+        " ⚠️What’s special about it? = এর বিশেষত্ব কী? !!",
+        " ✅I’m fond of the great nature there. It’s a horseshoe-shaped meander of Colorado river. = আমি সেখানে প্রকৃতির প্রতি অনুরাগী। এটি কোলোরাডো নদীর একটি হর্সশু আকৃতির বাঁক। !!",
+        
+        " ⚠️How has it changed recently? = সাম্প্রতিক সময়ে এটি কীভাবে পরিবর্তিত হয়েছে? !!",
+        " ✅It doesn’t change much actually. = এটি আসলে খুব একটা পরিবর্তিত হয়নি। !!",
+        
+        " ⚠️What’s the next natural scenery you would like to visit? = পরবর্তী প্রাকৃতিক দৃশ্য কোনটি আপনি পরিদর্শন করতে চান? !!",
+        " ✅My next destination would be the Maroon Bells in Colorado. I fell in love with mountain ranges and yellow flowers there. = আমার পরবর্তী গন্তব্য হবে কোলোরাডোর মারুন বেলস। আমি সেখানে পর্বতমালা এবং হলুদ ফুলের প্রেমে পড়েছিলাম। !!",
+        
+        " ⚠️What can people get from visiting natural places? = মানুষ প্রাকৃতিক স্থানে পরিদর্শন করলে কী পেতে পারে? !!",
+        " ✅People will get closer to Mother Nature. Children have more motivation to discover the world around them. = মানুষ প্রকৃতির সাথে আরও ঘনিষ্ঠ হতে পারে। শিশুদের তাদের চারপাশের পৃথিবী আবিষ্কারের জন্য আরও অনুপ্রেরণা পায়। !!",
+        
+        " ⚠️What are some famous natural attractions in your country? = আপনার দেশে কোন কিছু জনপ্রিয় প্রাকৃতিক আকর্ষণ আছে? !!",
+        " ✅There are many such as Death Valley, Niagara Falls, the Redwoods, and the Grand Canyon, to name a few. = এমন অনেক আকর্ষণ আছে যেমন ডেথ ভ্যালি, নিয়াগ্রা ফলস, দ্য রেডউডস, এবং গ্র্যান্ড ক্যানিয়ন, কয়েকটি উল্লেখযোগ্য। !!"
+    ]
+},
+
+{
+    "title": "Outdoor Activities",
+    "tex": [
+        " ⚠️What outdoor activity do you participate in? = আপনি কী ধরনের বাইরের কাজকর্মে অংশগ্রহণ করেন? !!",
+        " ✅I do many, but my favorite one is jogging. = আমি অনেক কিছু করি, তবে আমার প্রিয় কাজ হল জগিং। !!",
+        
+        " ⚠️Where do you do it? = আপনি কোথায় এটি করেন? !!",
+        " ✅I go jogging in the park near my place. = আমি আমার বাড়ির কাছে পার্কে জগিং করি। !!",
+        
+        " ⚠️Who do you do outdoor activities with? = আপনি কার সাথে বাইরের কাজকর্ম করেন? !!",
+        " ✅I usually go jogging with my family. = আমি সাধারণত আমার পরিবারের সাথে জগিং করি। !!",
+        
+        " ⚠️Who shares the same interests as you? = কে আপনার মতই আগ্রহী? !!",
+        " ✅My family, especially my dad. We usually jog together. = আমার পরিবার, বিশেষ করে আমার বাবা। আমরা সাধারণত একসাথে জগিং করি। !!",
+        
+        " ⚠️How often do you take part in outdoor activities? = আপনি কতবার বাইরের কাজকর্মে অংশগ্রহণ করেন? !!",
+        " ✅Every morning, except on rainy days. = প্রতিদিন সকালে, বৃষ্টির দিন ছাড়া। !!",
+        
+        " ⚠️How do you feel after activities? = কাজকর্মের পর আপনি কেমন অনুভব করেন? !!",
+        " ✅I feel really relaxed and refreshed. = আমি খুবই আরামদায়ক এবং সতেজ অনুভব করি। !!",
+        
+        " ⚠️What benefits can you get from outdoor activities? = বাইরের কাজকর্ম থেকে আপনি কী সুবিধা পেতে পারেন? !!",
+        " ✅It’s a good workout method. Jogging is also a good way for me to charge batteries for a long day working. = এটি একটি ভাল ব্যায়াম পদ্ধতি। জগিংও একটি ভাল উপায় আমার দীর্ঘ কাজের দিনকে শক্তি দিয়ে পুনরুজ্জীবিত করতে। !!",
+        
+        " ⚠️Do you usually play sports outdoors? = আপনি সাধারণত বাইরের খেলাধুলা খেলেন কি? !!",
+        " ✅Yes, I do. I play volleyball and swim outdoors. = হ্যাঁ, আমি খেলি। আমি বাইরের ভলিবল খেলে এবং সাঁতার কাটতে ভালোবাসি। !!",
+        
+        " ⚠️Why are children less interested in outdoor activities nowadays? = কেন আজকাল শিশুদের বাইরের কাজকর্মে আগ্রহ কমে গেছে? !!",
+        " ✅Children nowadays prefer high-tech gadgets like computers, iPads, and phones to outdoor activities. = আজকাল শিশুদের বাইরের কাজকর্মের চেয়ে কম্পিউটার, আইপ্যাড, এবং ফোনের মতো হাই-টেক গ্যাজেট পছন্দ করে। !!"
+    ]
+},
+
+{
+    "title": "Law",
+    "tex": [
+        " ⚠️What law do you like? = আপনি কোন আইন পছন্দ করেন? !!",
+        " ✅I like the traffic law of wearing the helmet when traveling by motorbike. = আমি মোটরবাইক চালানোর সময় হেলমেট পরার ট্রাফিক আইন পছন্দ করি। !!",
+        
+        " ⚠️Is that an international law? = এটা কি আন্তর্জাতিক আইন? !!",
+        " ✅Yes, people around the world follow this law. = হ্যাঁ, পৃথিবীজুড়ে মানুষ এই আইন মেনে চলে। !!",
+        
+        " ⚠️When was it issued? = এটি কখন জারি করা হয়েছিল? !!",
+        " ✅I’m not quite sure, but I guess a long time ago. = আমি পুরোপুরি নিশ্চিত না, তবে আমি অনুমান করি অনেক আগে। !!",
+        
+        " ⚠️Who told you that law? = আপনাকে এই আইনটি কে বলেছিলেন? !!",
+        " ✅I learned it at school. = আমি এটি স্কুলে শিখেছিলাম। !!",
+        
+        " ⚠️Is it easy to follow that law? = এই আইনটি অনুসরণ করা কি সহজ? !!",
+        " ✅Yes, it is. It doesn’t cause any inconvenience at all. = হ্যাঁ, এটি সহজ। এতে কোনো অসুবিধা হয় না। !!",
+        
+        " ⚠️What do you think about that law? = আপনি এই আইন সম্পর্কে কী মনে করেন? !!",
+        " ✅The traffic law is so necessary for traffic participants when they’re on the road. = রাস্তায় ট্রাফিক অংশগ্রহণকারীদের জন্য ট্রাফিক আইন খুবই প্রয়োজনীয়। !!",
+        
+        " ⚠️What benefit can you get from following that law? = এই আইনটি অনুসরণ করলে আপনি কী সুবিধা পাবেন? !!",
+        " ✅It may keep me safe from traffic accidents. = এটি আমাকে ট্রাফিক দুর্ঘটনা থেকে নিরাপদ রাখতে পারে। !!",
+        
+        " ⚠️Why should people obey the law strictly? = মানুষ কেন কঠোরভাবে আইন মেনে চলা উচিত? !!",
+        " ✅Following law is a good way to protect themselves as well as others. = আইন মেনে চলা তাদের নিজস্ব এবং অন্যদের সুরক্ষার জন্য একটি ভাল উপায়। !!",
+        
+        " ⚠️What can be done to encourage people to follow the law? = মানুষকে আইন অনুসরণ করতে উৎসাহিত করতে কী করা যেতে পারে? !!",
+        " ✅Obeying law is people’s responsibility. If they against the law, they’ll put themselves in trouble. = আইন মেনে চলা মানুষের দায়িত্ব। যদি তারা আইনের বিরুদ্ধে যায়, তারা নিজেদের বিপদে ফেলবে। !!"
+    ]
+},
+
+{
+    "title": "Pollution",
+    "tex": [
+        " ⚠️How many kinds of pollution are there? = কী কী ধরনের দুষণ রয়েছে? !!",
+        " ✅There are many types of pollution: land, water, noise, air, light, thermal pollution. = দুষণের অনেক ধরনের রয়েছে: ভূমি, পানি, শব্দ, বায়ু, আলো, তাপ দুষণ। !!",
+        
+        " ⚠️What type of pollution is popular in your country? = আপনার দেশে কোন ধরনের দুষণ জনপ্রিয়? !!",
+        " ✅The most popular one is water pollution, I guess. = আমি মনে করি, সবচেয়ে জনপ্রিয় হচ্ছে পানি দুষণ। !!",
+        
+        " ⚠️Have you ever littered? = আপনি কি কখনও আবর্জনা ফেলেছেন? !!",
+        " ✅Yes, I have, but when I was taught the lesson of protecting Mother Nature, I quit littering. = হ্যাঁ, আমি ফেলেছি, তবে যখন আমাকে প্রকৃতি রক্ষার শিক্ষা দেওয়া হয়, আমি আবর্জনা ফেলা বন্ধ করি। !!",
+        
+        " ⚠️What can you do to help prevent pollution? = আপনি দুষণ প্রতিরোধে কী করতে পারেন? !!",
+        " ✅Reduce and reuse whatever I can to eliminate the amount of waste is what I can do to prevent pollution. = আমি যা করতে পারি তা হলো বর্জ্যের পরিমাণ কমাতে এবং পুনর্ব্যবহার করতে। !!",
+        
+        " ⚠️What does the government do to encourage people to protect the environment? = পরিবেশ রক্ষায় মানুষকে উৎসাহিত করার জন্য সরকার কী করছে? !!",
+        " ✅They organize some campaigns to raise the awareness of people. Everything should start from education. = তারা কিছু প্রচারণা আয়োজন করে মানুষের সচেতনতা বৃদ্ধি করার জন্য। সব কিছু শিক্ষা থেকে শুরু হওয়া উচিত। !!",
+        
+        " ⚠️Are people in your country aware of the environmental issues? = আপনার দেশে মানুষ পরিবেশগত সমস্যাগুলি সম্পর্কে সচেতন কি? !!",
+        " ✅Yes, they are. They care about what happens to the environment around them. = হ্যাঁ, তারা সচেতন। তারা তাদের আশেপাশের পরিবেশে কী ঘটছে তাতে যত্ন নেয়। !!",
+        
+        " ⚠️Is there any law to force people to protect the environment? = পরিবেশ রক্ষা করতে মানুষকে বাধ্য করতে কোনো আইন আছে কি? !!",
+        " ✅Yes. The environment law states punishments to people doing harm to the environment. = হ্যাঁ, পরিবেশ আইন মানুষের পরিবেশের ক্ষতি করার জন্য শাস্তি নির্ধারণ করেছে। !!"
+    ]
+},
+
+{
+    "title": "Traffic Jam",
+    "tex": [
+        " ⚠️Are you comfortable with traffic jam? = আপনি কি ট্রাফিক জ্যামে স্বাচ্ছন্দ্যবোধ করেন? !!",
+        " ✅Not at all. I feel annoyed. = একদমই না। আমি বিরক্ত অনুভব করি। !!",
+        
+        " ⚠️Why does it happen? = এটি কেন ঘটে? !!",
+        " ✅Because there are too many vehicles on the streets during rush hours, I bet. = কারণ রাস্তার মধ্যে খুব বেশি যানবাহন থাকে ব্যস্ত সময়ের মধ্যে, আমি নিশ্চিত। !!",
+        
+        " ⚠️How often do you sit in a traffic jam? = আপনি কতবার ট্রাফিক জ্যামে বসে থাকেন? !!",
+        " ✅Just every day, when I finish office hour and go back home. = প্রতিদিন, যখন আমি অফিসের সময় শেষ করি এবং বাড়ি ফিরে যাই। !!",
+        
+        " ⚠️What time in a day are you usually caught in a traffic jam? = দিনে কোন সময় আপনি সাধারণত ট্রাফিক জ্যামে আটকা পড়েন? !!",
+        " ✅In rush hour at 7 a.m and 5 p.m. = ব্যস্ত সময়ের মধ্যে, সকাল ৭টা এবং সন্ধ্যা ৫টা। !!",
+        
+        " ⚠️How long does it take to escape from the traffic jam? = ট্রাফিক জ্যাম থেকে বের হতে কত সময় লাগে? !!",
+        " ✅At least half an hour. = অন্তত আধা ঘণ্টা। !!",
+        
+        " ⚠️What do you do while waiting in a long line? = আপনি কি করেন দীর্ঘ লাইন অপেক্ষা করার সময়? !!",
+        " ✅I often glance at my watch actually. = আমি সাধারণত আমার ঘড়ি দেখে থাকি। !!",
+        
+        " ⚠️Have you ever had any trouble caused by traffic jam? = ট্রাফিক জ্যামের কারণে কখনও কি কোন সমস্যা হয়েছে? !!",
+        " ✅Yes, just yesterday I was late for an important meeting with my clients. = হ্যাঁ, ঠিক গতকাল আমি আমার ক্লায়েন্টদের সাথে গুরুত্বপূর্ণ এক মিটিংয়ে দেরি করেছি। !!",
+        
+        " ⚠️How has the traffic situation changed recently? = সম্প্রতি ট্রাফিক পরিস্থিতি কীভাবে পরিবর্তিত হয়েছে? !!",
+        " ✅There are more vehicles, which makes traffic jam more and more serious. = সেখানে আরো বেশি যানবাহন রয়েছে, যার ফলে ট্রাফিক জ্যাম আরও গুরুতর হচ্ছে। !!"
+    ]
+},
+
+{
+    "title": "TV Program",
+    "tex": [
+        " ⚠️What is your favorite TV program? = আপনার প্রিয় টিভি প্রোগ্রাম কী? !!",
+        " ✅Well, I watch a lot, but the one I like best is “How’s it made”. = ঠিক আছে, আমি অনেক কিছুই দেখি, তবে আমার সবচেয়ে পছন্দের প্রোগ্রাম হলো ‘হাউজ ইট মেইড’। !!",
+        
+        " ⚠️Is that an international TV program? = এটি কি একটি আন্তর্জাতিক টিভি প্রোগ্রাম? !!",
+        " ✅Yes, it is. It’s available in Canada, Europe, Australia, New Zealand, Southeast Asia, and so on. = হ্যাঁ, এটি। এটি কানাডা, ইউরোপ, অস্ট্রেলিয়া, নিউজিল্যান্ড, দক্ষিণ-পূর্ব এশিয়া এবং আরও অনেক জায়গায় উপলব্ধ। !!",
+        
+        " ⚠️What is the TV program about? = এই টিভি প্রোগ্রামটি কী সম্পর্কে? !!",
+        " ✅Its name somehow describes the content, which is about the process of making things like lipsticks, balls, candy, toys, chocolate and so on. = এর নাম কিছুটা বিষয়বস্তু বর্ণনা করে, যা হল লিপস্টিক, বল, মিষ্টি, খেলনা, চকলেট ইত্যাদির তৈরি প্রক্রিয়া। !!",
+        
+        " ⚠️How often do you watch that TV program? = আপনি কতটুকু সময় পর পর সেই টিভি প্রোগ্রামটি দেখেন? !!",
+        " ✅Almost every day after dinner. = প্রায় প্রতিদিন রাতের খাবারের পর। !!",
+        
+        " ⚠️Who watches that program with you? = কে সেই প্রোগ্রামটি আপনার সাথে দেখেন? !!",
+        " ✅My family watches it together. My younger brother can’t wait to turn on the TV. = আমার পরিবার এটি একসাথে দেখে। আমার ছোট ভাই টিভি চালু করার জন্য অপেক্ষা করতে পারে না। !!",
+        
+        " ⚠️What channel is it on? = এটি কোন চ্যানেলে প্রচারিত হয়? !!",
+        " ✅A very common one, Discovery channel, which focuses on popular science, technology, and history. = একটি খুব সাধারণ চ্যানেল, ডিসকভারি চ্যানেল, যা জনপ্রিয় বিজ্ঞান, প্রযুক্তি এবং ইতিহাসে মনোযোগ দেয়। !!",
+        
+        " ⚠️Why do you like that TV program? = আপনি কেন ওই টিভি প্রোগ্রামটি পছন্দ করেন? !!",
+        " ✅I love learning new things, especially about how everything is produced. I would love to run a business about hand-made cosmetics. = আমি নতুন কিছু শেখাতে ভালোবাসি, বিশেষ করে কিভাবে সব কিছু তৈরি হয় সে সম্পর্কে। আমি হস্তশিল্প কসমেটিক্স নিয়ে একটি ব্যবসা পরিচালনা করতে চাই। !!",
+        
+        " ⚠️How does that TV program change you? = ওই টিভি প্রোগ্রামটি আপনাকে কিভাবে পরিবর্তন করেছে? !!",
+        " ✅I know more about the world around me. It also supports me in my career path to make my dream come true. = আমি আমার চারপাশের পৃথিবী সম্পর্কে আরও জানি। এটি আমার ক্যারিয়ার পথেও সহায়ক, যাতে আমার স্বপ্নটি সত্যি হয়। !!",
+        
+        " ⚠️Who is its target audience? = এর লক্ষ্য দর্শক কারা? !!",
+        " ✅It particularly aims at families and younger audiences. = এটি বিশেষভাবে পরিবার এবং তরুণ দর্শকদের দিকে লক্ষ্য রাখে। !!",
+        
+        " ⚠️Would you recommend that TV program to your friends? = আপনি কি আপনার বন্ধুদের সেই টিভি প্রোগ্রামটি পরামর্শ দেবেন? !!",
+        " ✅Yes, of course. They would be crazy about the program, I bet. = হ্যাঁ, অবশ্যই। তারা প্রোগ্রামটি নিয়ে পাগল হয়ে যাবে, আমি বাজি ধরে বলতে পারি। !!"
+    ]
+},
+
+{
+    "title": "Architecture / Building",
+    "tex": [
+        " ⚠️What is the most impressive building you’ve visited? = আপনি কোন বিল্ডিংটি সবচেয়ে প্রভাবিত হয়েছেন? !!",
+        " ✅It’s the Petronas Twin Tower in Malaysia. = এটি মালয়েশিয়ার পেট্রোনাস টুইন টাওয়ার। !!",
+        
+        " ⚠️Where is it located? = এটি কোথায় অবস্থিত? !!",
+        " ✅It’s located in the capital of Malaysia, Kuala Lumpur. = এটি মালয়েশিয়ার রাজধানী কুয়ালালামপুরে অবস্থিত। !!",
+        
+        " ⚠️How tall is it? = এটি কতটা উঁচু? !!",
+        " ✅They were the tallest buildings in the world from 1998 to 2004. It reaches the height of 451.9 meters. = এটি ১৯৯৮ থেকে ২০০৪ পর্যন্ত বিশ্বের সবচেয়ে উঁচু বিল্ডিং ছিল। এর উচ্চতা ৪৫১.৯ মিটার। !!",
+        
+        " ⚠️Who was the architect? = এর স্থপতি কে ছিলেন? !!",
+        " ✅César Pelli, an Argentine American architect. = সেজার পেলি, একজন আর্জেন্টিনীয় আমেরিকান স্থপতি। !!",
+        
+        " ⚠️Is it well-known all over the world? = এটি কি সারা বিশ্বে পরিচিত? !!",
+        " ✅Sure. Tourists can’t miss it when visiting Malaysia. = অবশ্যই। পর্যটকরা মালয়েশিয়া ভ্রমণ করলে এটি মিস করতে পারেন না। !!",
+        
+        " ⚠️Do you have to purchase a ticket in order to visit the tower? = টাওয়ারটি পরিদর্শন করার জন্য কি আপনাকে টিকিট কিনতে হয়? !!",
+        " ✅Yes, I do. It’s sold online. = হ্যাঁ, আমাকে টিকিট কিনতে হয়। এটি অনলাইনে বিক্রি হয়। !!",
+        
+        " ⚠️When did you see it? = আপনি কখন এটি দেখেছিলেন? !!",
+        " ✅I saw it 2 years ago. = আমি এটি ২ বছর আগে দেখেছিলাম। !!",
+        
+        " ⚠️Will you come back there again? = আপনি কি আবার সেখানে ফিরে যাবেন? !!",
+        " ✅Of course. I’m looking forward to seeing again someday. = অবশ্যই। আমি আবার একদিন এটি দেখতে অধীর আগ্রহে অপেক্ষা করছি। !!"
+    ]
+},
+
+{
+    "title": "Electronic Media",
+    "tex": [
+        " ⚠️What kind of electronic media is popular in your country? = আপনার দেশে কোন ধরনের ইলেকট্রনিক মিডিয়া জনপ্রিয়? !!",
+        " ✅There are some popular kinds: radio, TV and online news. = কিছু জনপ্রিয় ধরনের মিডিয়া রয়েছে: রেডিও, টিভি এবং অনলাইন নিউজ। !!",
+        
+        " ⚠️What’s your favorite kind? = আপনার প্রিয় মিডিয়া কোনটি? !!",
+        " ✅I like online news because I have to work with computers every day, it’s easier for me to read online. = আমি অনলাইন নিউজ পছন্দ করি কারণ আমাকে প্রতিদিন কম্পিউটার নিয়ে কাজ করতে হয়, অনলাইনে পড়া আমার জন্য সহজ। !!",
+        
+        " ⚠️Why do you like it? = আপনি কেন এটি পছন্দ করেন? !!",
+        " ✅Due to its convenience. I love reading anyway. = এর সুবিধার কারণে। আমি যেভাবেই হোক পড়তে ভালোবাসি। !!",
+        
+        " ⚠️How often do you access to that kind of electronic media? = আপনি কত ঘন ঘন এই ধরনের ইলেকট্রনিক মিডিয়া ব্যবহার করেন? !!",
+        " ✅Every morning before I start working. = প্রতিদিন সকালে, আমি কাজ শুরু করার আগে। !!",
+        
+        " ⚠️What’s interesting about it? = এতে কি আকর্ষণীয়? !!",
+        " ✅Instead of watching TV or listening to radio passively, I ‘d rather read and think about the news. = টিভি দেখা বা রেডিও শোনা থেকে প্যাসিভভাবে, আমি বরং নিউজ পড়ে এবং সে বিষয়ে চিন্তা করি। !!",
+        
+        " ⚠️Is it convenient to access to that kind of electronic media? = কি এই ধরনের ইলেকট্রনিক মিডিয়া ব্যবহার করা সুবিধাজনক? !!",
+        " ✅Yes, with a computer, smartphone connected to the Internet, you can read electronic news anytime and anywhere. = হ্যাঁ, একটি কম্পিউটার বা স্মার্টফোনের মাধ্যমে ইন্টারনেট সংযুক্ত থাকলে, আপনি যেকোনো সময় এবং যেকোনো জায়গা থেকে ইলেকট্রনিক নিউজ পড়তে পারেন। !!",
+        
+        " ⚠️Do your family like that electronic media too? = আপনার পরিবার কি সেই ধরনের ইলেকট্রনিক মিডিয়া পছন্দ করে? !!",
+        " ✅No. My dad likes radio, and my mom likes TV. = না, আমার বাবা রেডিও পছন্দ করেন, আর মা টিভি পছন্দ করেন। !!",
+        
+        " ⚠️How has mass media changed recently? = সম্প্রতি গণমাধ্যমে কি পরিবর্তন এসেছে? !!",
+        " ✅They’re more modern and user-friendly. = তারা আরও আধুনিক এবং ব্যবহারকারী-বান্ধব হয়েছে। !!"
+    ]
+},
+
+{
+    "title": "Job/Career",
+    "tex": [
+        " ⚠️What is your desired job? = আপনার কাঙ্ক্ষিত কাজ কি? !!",
+        " ✅Well, my dream changes in accordance with age. Up to now, I would like to be a great English teacher. = ভালো, আমার স্বপ্ন বয়স অনুযায়ী পরিবর্তিত হয়। এখন পর্যন্ত, আমি একজন দারুণ ইংরেজি শিক্ষক হতে চাই। !!",
+        
+        " ⚠️Is that a demanding job? = কি এটা একটি চ্যালেঞ্জিং কাজ? !!",
+        " ✅Yes, I think so although people suppose that being a teacher is easy and boring. = হ্যাঁ, আমি মনে করি, যদিও মানুষ মনে করে যে শিক্ষক হওয়া সহজ এবং একঘেয়ে। !!",
+        
+        " ⚠️What challenge do you have when doing that job? = এই কাজটি করার সময় আপনি কি চ্যালেঞ্জের সম্মুখীন হন? !!",
+        " ✅I have some problems with classroom management. Maybe I have to improve that skill a lot in order to be a good teacher. = আমার কিছু সমস্যা হয় ক্লাসরুম ম্যানেজমেন্ট নিয়ে। হয়তো আমাকে এই দক্ষতা অনেক উন্নত করতে হবে একজন ভালো শিক্ষক হওয়ার জন্য। !!",
+        
+        " ⚠️Is it hard to make your dream come true? = আপনার স্বপ্ন বাস্তবায়ন করা কি কঠিন? !!",
+        " ✅Every job needs time and effort, and teacher does as well. Apart from the academic knowledge I was taught in university, I have to learn many other soft skills. = প্রতিটি কাজের জন্য সময় এবং পরিশ্রম প্রয়োজন, এবং শিক্ষকতার ক্ষেত্রেও তেমন। বিশ্ববিদ্যালয়ে যে একাডেমিক জ্ঞান আমি পেয়েছি, তাও ছাড়া আমাকে অনেক সফট স্কিলও শিখতে হবে। !!",
+        
+        " ⚠️Why do you choose that job? = আপনি কেন এই কাজটি বেছে নিয়েছেন? !!",
+        " ✅I really admired my high school English teacher, and I want to be like her. = আমি সত্যিই আমার উচ্চ বিদ্যালয়ের ইংরেজি শিক্ষিকাকে অনেক শ্রদ্ধা করতাম, এবং আমি তার মতো হতে চাই। !!",
+        
+        " ⚠️What requirements and characteristics do you need to do that job? = ওই কাজটি করতে আপনার কি কি দক্ষতা ও বৈশিষ্ট্য প্রয়োজন? !!",
+        " ✅Let’s see. You need to be patient, thoughtful and sympathetic. = দেখা যাক। আপনাকে ধৈর্যশীল, চিন্তাশীল এবং সহানুভূতিশীল হতে হবে। !!",
+        
+        " ⚠️Does the job have something to do with your major at university? = কি এই কাজটি আপনার বিশ্ববিদ্যালয়ের মেজরের সঙ্গে সম্পর্কিত? !!",
+        " ✅Sure. I studied English Linguistics and Literature, majored in English teaching. The major does support me a lot in my career path. = হ্যাঁ, আমি ইংরেজি ভাষাবিজ্ঞান এবং সাহিত্যে পড়াশোনা করেছি, ইংরেজি শিক্ষাদানে মেজর করেছি। এই মেজর আমার ক্যারিয়ার পথে অনেক সহায়তা করছে। !!",
+        
+        " ⚠️What does the society think about your job? = সমাজ আপনার কাজ সম্পর্কে কি মনে করে? !!",
+        " ✅I’m not quite sure, but I’m proud to be a teacher, an honor job. = আমি পুরোপুরি নিশ্চিত না, তবে আমি শিক্ষক হতে গর্বিত, এটি একটি সম্মানজনক কাজ। !!",
+        
+        " ⚠️Do you make much money with that job? = এই কাজের মাধ্যমে আপনি কি অনেক টাকা উপার্জন করেন? !!",
+        " ✅Not at all. Teacher’s one of the lowest paying jobs in my country. = একদম না। শিক্ষক হল আমার দেশের সবচেয়ে কম বেতনভুক্ত কাজগুলোর একটি। !!",
+        
+        " ⚠️Have you ever thought of leaving your job? = আপনি কি কখনো আপনার কাজ ছেড়ে দেওয়ার কথা ভেবেছেন? !!",
+        " ✅I haven’t thought of that before, but I believe in what I’m doing right now. = আমি আগে কখনো এটা ভাবিনি, তবে আমি বিশ্বাস করি আমি এখন যা করছি তা সঠিক। !!"
+    ]
+},
+
+{
+    "title": "Competition/Contest",
+    "tex": [
+        " ⚠️What is the most impressive competition you’ve entered? = আপনি যেই প্রতিযোগিতায় অংশগ্রহণ করেছেন, সেটি সবচেয়ে আকর্ষণীয় কি ছিল? !!",
+        " ✅I took part in an eloquence competition, organized by my university last year. = আমি গত বছর আমার বিশ্ববিদ্যালয় দ্বারা আয়োজিত একটি বক্তৃতা প্রতিযোগিতায় অংশগ্রহণ করেছিলাম। !!",
+        
+        " ⚠️What was it about? = এটি কী ছিল? !!",
+        " ✅The competition was to find out the best public speaker in the university. = প্রতিযোগিতাটি ছিল বিশ্ববিদ্যালয়ে শ্রেষ্ঠ পাবলিক স্পীকার নির্বাচন করার জন্য। !!",
+        
+        " ⚠️Were there many participants in the competition? = প্রতিযোগিতায় অনেক প্রতিযোগী ছিলেন কি? !!",
+        " ✅Yes, there were around 500 participants totally. = হ্যাঁ, মোট ৫০০ জনের মতো প্রতিযোগী ছিল। !!",
+        
+        " ⚠️What prize did you get? = আপনি কি পুরস্কার পেয়েছিলেন? !!",
+        " ✅Well, I didn’t get a very high prize, but it didn’t matter, I was still happy with the result. = ভালো, আমি খুব বড় পুরস্কার পাইনি, তবে তাতে কিছু এসে যায়নি, আমি ফলাফল নিয়ে এখনও খুশি। !!",
+        
+        " ⚠️What could you learn from the competition? = আপনি এই প্রতিযোগিতা থেকে কী শিখতে পেরেছিলেন? !!",
+        " ✅I learned the way to develop ideas for a speech beside some body language tips in public speaking. = আমি বক্তৃতার জন্য ধারণা তৈরি করার পদ্ধতি এবং পাবলিক স্পিকিংয়ে শারীরিক ভাষার কিছু টিপস শিখেছিলাম। !!",
+        
+        " ⚠️Did you have to prepare a lot for the competition? = আপনি কি প্রতিযোগিতার জন্য অনেক প্রস্তুতি নিয়েছিলেন? !!",
+        " ✅Yes, I did. I read various materials about eloquence, as well as rehearsed a lot. = হ্যাঁ, আমি প্রস্তুতি নিয়েছিলাম। আমি বক্তৃতা নিয়ে বিভিন্ন বিষয় পড়েছিলাম এবং অনেক সময় প্র্যাকটিসও করেছি। !!",
+        
+        " ⚠️How did you know about the competition? = আপনি কিভাবে প্রতিযোগিতার বিষয়ে জানতে পেরেছিলেন? !!",
+        " ✅The competition was informed in the school poster. = প্রতিযোগিতার বিষয়ে স্কুলের পোস্টারে জানানো হয়েছিল। !!",
+        
+        " ⚠️Did you do your best then? = তখন কি আপনি আপনার সেরাটা দিয়েছিলেন? !!",
+        " ✅Yes, I think so. After the competition, I know I have to try more. = হ্যাঁ, আমি মনে করি, প্রতিযোগিতা শেষ হওয়ার পর আমি জানি আমাকে আরও চেষ্টা করতে হবে। !!",
+        
+        " ⚠️Is the competition useful, in your opinion? = আপনার মতে, প্রতিযোগিতাটি কি উপকারী ছিল? !!",
+        " ✅Sure. It helps students learn soft skills as well as become more confident in life. = অবশ্যই। এটি শিক্ষার্থীদের সফট স্কিল শিখতে এবং জীবনে আরও আত্মবিশ্বাসী হতে সাহায্য করে। !!"
+    ]
+},
+
+{
+    "title": "A Garden",
+    "tex": [
+        " ⚠️Is there any garden that you like? = আপনার কি এমন কোনো বাগান আছে যা আপনি পছন্দ করেন? !!",
+        " ✅Yes, I love the strawberry garden in my neighborhood. = হ্যাঁ, আমি আমার আশেপাশের স্ট্রবেরি বাগানটি পছন্দ করি। !!",
+        
+        " ⚠️Where is it? = এটি কোথায় অবস্থিত? !!",
+        " ✅It’s in the highland area where I live. = এটি সেই হাইল্যান্ড এলাকায় যেখানে আমি বাস করি। !!",
+        
+        " ⚠️When did you first see it? = আপনি কখন প্রথম এটি দেখেছিলেন? !!",
+        " ✅I accidentally saw it when I had a picnic in the highland. = আমি হাইল্যান্ডে পিকনিকে গিয়ে এটি অনিচ্ছাকৃতভাবে দেখেছিলাম। !!",
+        
+        " ⚠️What were planted in the garden? = বাগানে কি কি চাষ করা হয়েছিল? !!",
+        " ✅Strawberries, of course. There are also some boxes of cucumbers next to the strawberry beds. = স্ট্রবেরি, অবশ্যই। স্ট্রবেরি বিছানার পাশে কিছু শসার বাক্সও রয়েছে। !!",
+        
+        " ⚠️Why do you like the garden? = আপনি কেন বাগানটি পছন্দ করেন? !!",
+        " ✅I love picking red strawberries. The garden brings me closer to nature as well. = আমি লাল স্ট্রবেরি তোলতে ভালোবাসি। বাগানটি আমাকে প্রকৃতির কাছে নিয়ে আসে। !!",
+        
+        " ⚠️What is special about the garden? = বাগানটির বিশেষত্ব কি? !!",
+        " ✅The strawberries there are organic. = সেখানে স্ট্রবেরিগুলি জৈবিক। !!",
+        
+        " ⚠️How do people do the gardening? = মানুষ কিভাবে বাগান করেন? !!",
+        " ✅Keeping the beds mulched is important since it helps reduce water needs. = বিছানাগুলিকে মালচ দিয়ে রাখা গুরুত্বপূর্ণ কারণ এটি পানি প্রয়োজন কমাতে সাহায্য করে। !!",
+        
+        " ⚠️How often do you visit the garden? = আপনি কতবার বাগানটি পরিদর্শন করেন? !!",
+        " ✅Just when I have leisure time since I’m quite busy. = যখন আমি অবসর সময় পাই তখনই। কারণ আমি বেশ ব্যস্ত থাকি। !!",
+        
+        " ⚠️Is there any relation between the green garden and your mood? = গ্রীন বাগান এবং আপনার মুডের মধ্যে কি কোনো সম্পর্ক আছে? !!",
+        " ✅Yes, at least for me. The green will help me chill out. = হ্যাঁ, অন্তত আমার জন্য। সবুজ আমাকে শান্ত হতে সাহায্য করে। !!",
+        
+        " ⚠️Do you want to be a gardener? = আপনি কি বাগানী হতে চান? !!",
+        " ✅Honestly, no. I’m not used to manual work. = সৎভাবে বললে, না। আমি ম্যানুয়াল কাজের অভ্যস্ত নই। !!"
+    ]
+},
+
+{
+    "title": "Hometown",
+    "tex": [
+        " ⚠️Where is your hometown? = আপনার জন্মস্থান কোথায়? !!",
+        " ✅My hometown is a coastal state of US. = আমার জন্মস্থান যুক্তরাষ্ট্রের একটি উপকূলীয় রাজ্য। !!",
+        
+        " ⚠️Is it the city or the countryside? = এটি শহর না গ্রাম? !!",
+        " ✅I live in a suburb area. = আমি শহরতলির এলাকায় বাস করি। !!",
+        
+        " ⚠️What’s it known for? = এটি কি কারণে পরিচিত? !!",
+        " ✅It’s famous for tobaccos. = এটি তামাকের জন্য বিখ্যাত। !!",
+        
+        " ⚠️What do people do there? = সেখানে মানুষ কী কাজ করে? !!",
+        " ✅Agriculture is the main industry in my hometown. Most of the people here plant and sell tobaccos. = কৃষি আমার জন্মস্থানের প্রধান শিল্প। এখানে বেশিরভাগ মানুষ তামাক চাষ ও বিক্রি করে। !!",
+        
+        " ⚠️How is the atmosphere there? = সেখানে পরিবেশ কেমন? !!",
+        " ✅Well, it’s quite peaceful. I enjoy the fresh air here. = ভাল, এটি বেশ শান্তিপূর্ণ। আমি এখানে তাজা বাতাস উপভোগ করি। !!",
+        
+        " ⚠️How are people there? = সেখানে মানুষ কেমন? !!",
+        " ✅They’re friendly and hospitable. = তারা বন্ধুত্বপূর্ণ এবং আতিথ্যশীল। !!",
+        
+        " ⚠️Would you like to live in your hometown or somewhere else? = আপনি কি আপনার জন্মস্থানে বা অন্য কোথাও বাস করতে চান? !!",
+        " ✅Yes, I would. I just wish I can live here forever. = হ্যাঁ, আমি চাই। আমি শুধু চাই এখানে চিরকাল বাস করতে পারি। !!",
+        
+        " ⚠️Is it easy to find a job there? = সেখানে চাকরি পাওয়া কি সহজ? !!",
+        " ✅Manual work is easy to find. I’m not sure about the white-collar jobs. = ম্যানুয়াল কাজ পাওয়া সহজ। আমি সাদা কলারের চাকরি সম্পর্কে নিশ্চিত নই। !!",
+        
+        " ⚠️Is it a good environment for young people? = এটি কি তরুণদের জন্য একটি ভালো পরিবেশ? !!",
+        " ✅I don’t think so. The pace of life here is quite slow. If they want to work in a dynamic environment, they’d better move to the city. = আমি মনে করি না। এখানে জীবনের গতি বেশ ধীর। যদি তারা গতিশীল পরিবেশে কাজ করতে চায়, তবে তারা শহরে চলে যাওয়াই ভালো। !!",
+        
+        " ⚠️Is traffic congestion a big problem in your hometown? = আপনার জন্মস্থানে কি ট্রাফিক জ্যাম বড় সমস্যা? !!",
+        " ✅Not at all. We couldn’t be happier with the traffic system here. = একদম না। আমরা এখানে ট্রাফিক সিস্টেম নিয়ে খুবই খুশি। !!"
+    ]
+},
+
+{
+    "title": "Clothing",
+    "tex": [
+        " ⚠️What is your favorite item of clothing? = আপনার প্রিয় পোশাকটি কী? !!",
+        " ✅My favorite one is a maxi dress. I wear it when hanging out with my friends or attending parties. = আমার প্রিয় পোশাক একটি ম্যাক্সি ড্রেস। আমি এটি পরিধান করি বন্ধুদের সাথে বাইরে যাওয়ার সময় বা পার্টিতে যাওয়ার সময়। !!",
+        
+        " ⚠️When did you buy it? = আপনি এটি কখন কিনেছিলেন? !!",
+        " ✅My friend gave it to me as a birthday present when I turned to 21. = আমার বন্ধু এটি আমাকে ২১ বছরে পা দেওয়ার সময় জন্মদিনের উপহার হিসেবে দিয়েছিল। !!",
+        
+        " ⚠️Where did you buy it? = আপনি এটি কোথা থেকে কিনেছিলেন? !!",
+        " ✅I had no idea where my close friend bought it. = আমি জানি না আমার ঘনিষ্ঠ বন্ধু এটি কোথা থেকে কিনেছিল। !!",
+        
+        " ⚠️What color is it? = এটি কোন রঙের? !!",
+        " ✅It’s blue – my favorite color. = এটি নীল – আমার প্রিয় রঙ। !!",
+        
+        " ⚠️Was it expensive? = এটি কি দামী ছিল? !!",
+        " ✅Yes, I guessed. = হ্যাঁ, আমি ধারণা করেছি। !!",
+        
+        " ⚠️Why do you like it? = আপনি কেন এটি পছন্দ করেন? !!",
+        " ✅Well, I’m kind of short and plump, so it’s hard to find a piece of clothing that fits me perfectly, but that one does. I also love the color and style. = আমি কিছুটা খাটো এবং মুটিয়ে গেছি, তাই এমন কোন পোশাক পাওয়া কঠিন, যা আমাকে পুরোপুরি মানায়, তবে এটি মানায়। আমি এর রঙ এবং শৈলীও পছন্দ করি। !!",
+        
+        " ⚠️Do clothes help to build your personal brand? = পোশাক কি আপনার ব্যক্তিগত ব্র্যান্ড গঠনে সাহায্য করে? !!",
+        " ✅Yes, I agree with it to some extent. I still believe that personal brand can be built from the inside rather than the outside. However, what you wear also plays an important role in saying who you are. = হ্যাঁ, আমি এর সাথে কিছুটা একমত। আমি এখনো বিশ্বাস করি যে, ব্যক্তিগত ব্র্যান্ড ভিতর থেকে গড়া যায়, বাইরে থেকে নয়। তবে, আপনি কি পরিধান করছেন তাও জানাতে একটি গুরুত্বপূর্ণ ভূমিকা পালন করে। !!",
+        
+        " ⚠️Have you seen anybody wearing unusual clothes? = আপনি কি কখনও কাউকে অস্বাভাবিক পোশাক পরতে দেখেছেন? !!",
+        " ✅Yes, I have, but I don’t think any fashion style is weird. I believe everybody has their own taste of fashion. = হ্যাঁ, আমি দেখেছি, কিন্তু আমি মনে করি না কোন ফ্যাশন স্টাইল অদ্ভুত। আমি বিশ্বাস করি সবাই তাদের নিজস্ব ফ্যাশন অনুভূতি রাখে। !!",
+        
+        " ⚠️How has your fashion style changed recently? = সাম্প্রতিক সময়ে আপনার ফ্যাশন স্টাইল কেমন পরিবর্তিত হয়েছে? !!",
+        " ✅I always wore formal shirt and trousers whenever hanging out years ago, but now I change into casuals like jeans and T-shirt. = বছরখানেক আগে আমি সবসময় ফরমাল শার্ট এবং প্যান্ট পরতাম যখন বাইরে যেতাম, কিন্তু এখন আমি জিন্স এবং টি-শার্ট মতো ক্যাজুয়াল পরিধান করি। !!"
+    ]
+},
+
+{
+    "title": "An Advertisement",
+    "tex": [
+        " ⚠️What is your favorite advertisement? = আপনার প্রিয় বিজ্ঞাপনটি কী? !!",
+        " ✅I’m quite impressed with the advertisement about Surf – a laundry detergent made by Unilever. = আমি Surf-এর বিজ্ঞাপনে বেশ মুগ্ধ, এটি একটি লন্ড্রি ডিটারজেন্ট যা ইউনিলিভার তৈরি করেছে। !!",
+        
+        " ⚠️Where did you see it? = আপনি এটি কোথায় দেখেছিলেন? !!",
+        " ✅I accidentally saw it on TV 2 years ago. = আমি দুই বছর আগে এটি টিভিতে দুর্ঘটনাক্রমে দেখেছিলাম। !!",
+        
+        " ⚠️What happened in the advertisement? = বিজ্ঞাপনে কী ঘটেছিল? !!",
+        " ✅The ad told a story of a family in which the children all loved their step-mother due to the white shirts she prepared for them. = বিজ্ঞাপনটি একটি পরিবারের গল্প বলেছিল যেখানে শিশুরা তাদের সৎ-মাকে খুব ভালোবাসতো কারণ সে তাদের জন্য সাদা শার্ট তৈরি করেছিল। !!",
+        
+        " ⚠️Why do you like it? = আপনি কেন এটি পছন্দ করেন? !!",
+        " ✅I just can’t stop loving the story in the ad. It’s such a sweet story. = আমি বিজ্ঞাপনের গল্পটি এত ভালোবাসি যে থামতেই পারি না। এটি একটি অত্যন্ত মিষ্টি গল্প। !!",
+        
+        " ⚠️Was there any famous actor/ actress in the advertisement? = বিজ্ঞাপনে কি কোনো বিখ্যাত অভিনেতা/অভিনেত্রী ছিলেন? !!",
+        " ✅Not at all. The actors were not very well-known, I think. = মোটেই না। আমি মনে করি, অভিনেতারা খুব পরিচিত ছিলেন না। !!",
+        
+        " ⚠️Did it attract much attention? = এটি কি অনেক মনোযোগ আকর্ষণ করেছিল? !!",
+        " ✅I have no idea, but I saw it in many public places. = আমার ধারণা নেই, তবে আমি এটি অনেক পাবলিক স্থানে দেখেছি। !!",
+        
+        " ⚠️What do you like the most in the advertisement? = বিজ্ঞাপনে আপনি সবচেয়ে বেশি কী পছন্দ করেন? !!",
+        " ✅Well, the vivid images and sound effects did attract me. = ভালো, জীবন্ত চিত্র এবং সাউন্ড ইফেক্টস আমাকে আকৃষ্ট করেছিল। !!",
+        
+        " ⚠️Do you believe in advertisements? = আপনি কি বিজ্ঞাপনগুলিতে বিশ্বাস করেন? !!",
+        " ✅Not really. Ads always say good things and neglect to mention bad things about a product for obvious reasons. = সত্যি কথা বলতে, আমি বিশ্বাস করি না। বিজ্ঞাপনগুলি সবসময় ভাল কিছু বলবে এবং পণ্যের খারাপ দিকগুলি জানাতে এড়িয়ে যাবে, এটা একেবারে পরিষ্কার। !!",
+        
+        " ⚠️How have advertisements changed recently? = সাম্প্রতিক সময়ে বিজ্ঞাপনগুলি কিভাবে পরিবর্তিত হয়েছে? !!",
+        " ✅They’re more modern. Digital marketing has proved successful in many fields. = তারা আরও আধুনিক হয়ে উঠেছে। ডিজিটাল মার্কেটিং অনেক ক্ষেত্রেই সফলতা প্রমাণ করেছে। !!"
+    ]
+},
+
+{
+    "title": "A Project",
+    "tex": [
+        " ⚠️What project did you work on? = আপনি কোন প্রকল্পে কাজ করেছেন? !!",
+        " ✅I made an English poster about our environment. = আমি আমাদের পরিবেশ সম্পর্কে একটি ইংরেজি পোস্টার তৈরি করেছি। !!",
+        
+        " ⚠️Was that an indoor or outdoor project? = এটি কি একটি অভ্যন্তরীণ নাকি বাহ্যিক প্রকল্প ছিল? !!",
+        " ✅The project was carried out mostly outdoor, only the last phase was conducted indoor. = প্রকল্পটি মূলত বাইরে করা হয়েছিল, শুধু শেষ পর্বটি অভ্যন্তরে সম্পন্ন হয়েছিল। !!",
+        
+        " ⚠️Who was involved in the project? = প্রকল্পে কে বা কারা জড়িত ছিল? !!",
+        " ✅My teammates and an advisory teacher. = আমার সহকর্মী এবং একজন পরামর্শক শিক্ষক। !!",
+        
+        " ⚠️What did you do? = আপনি কী করেছেন? !!",
+        " ✅We had a field trip to the countryside where we studied insects and plants. = আমরা গ্রামে একটি ফিল্ড ট্রিপে গিয়েছিলাম, যেখানে আমরা কীটপতঙ্গ এবং গাছপালা অধ্যয়ন করেছি। !!",
+        
+        " ⚠️Was it a successful project? = এটি কি একটি সফল প্রকল্প ছিল? !!",
+        " ✅Yes. We received compliments from our professor. = হ্যাঁ, আমরা আমাদের অধ্যাপক থেকে প্রশংসা পেয়েছি। !!",
+        
+        " ⚠️Who was your advisory teacher? = আপনার পরামর্শক শিক্ষক কে ছিলেন? !!",
+        " ✅Our Science teacher, Mr. John. We learned a lot from him. = আমাদের বিজ্ঞান শিক্ষক, মি. জন। আমরা তার কাছ থেকে অনেক কিছু শিখেছি। !!",
+        
+        " ⚠️What did you learn after the project? = প্রকল্পের পর আপনি কী শিখেছিলেন? !!",
+        " ✅I learned how to write contents and decorate posters. = আমি কন্টেন্ট লেখার এবং পোস্টার সাজানোর কৌশল শিখেছি। !!",
+        
+        " ⚠️Did you like your partners? = আপনি কি আপনার সহকর্মীদের পছন্দ করেছিলেন? !!",
+        " ✅Yes. Most of them were friendly and responsible. I particularly liked Michael, the leader of my team. = হ্যাঁ, তাদের বেশিরভাগই বন্ধুত্বপূর্ণ এবং দায়িত্বশীল ছিল। আমি বিশেষভাবে মাইকেলকে পছন্দ করেছি, যিনি আমার দলের নেতা ছিলেন। !!",
+        
+        " ⚠️What did you get after the project? = প্রকল্পের পর আপনি কী পেলেন? !!",
+        " ✅After the project, I know how to work in a team and cooperate well with my teammates. = প্রকল্পের পর, আমি জানি কিভাবে একটি দল হিসেবে কাজ করতে হয় এবং আমার সহকর্মীদের সঙ্গে ভালোভাবে সহযোগিতা করতে হয়। !!"
+    ]
+},
+
+{
+    "title": "A Wedding",
+    "tex": [
+        " ⚠️Have you ever attended someone’s wedding? Who was he/she? = আপনি কি কখনো কারও বিয়ে attend করেছেন? তিনি কে ছিলেন? !!",
+        " ✅Yes, a lot, but the most memorable one is my best friends. = হ্যাঁ, অনেক বার, তবে সবচেয়ে স্মরণীয় ছিল আমার ভালো friend's বিয়ে। !!",
+        
+        " ⚠️Who went with you? = আপনি কার সঙ্গে গিয়েছিলেন? !!",
+        " ✅I went with one of my classmates. = আমি আমার এক ক্লাসমেটের সাথে গিয়েছিলাম। !!",
+        
+        " ⚠️Where was the wedding organized? = বিয়েটি কোথায় আয়োজন করা হয়েছিল? !!",
+        " ✅It was held in a restaurant downtown. = এটি শহরের মাঝখানে একটি রেস্টুরেন্টে আয়োজন করা হয়েছিল। !!",
+        
+        " ⚠️What did people do in the wedding? = বিয়েতে মানুষ কী করেছে? !!",
+        " ✅They enjoyed wedding feast, sang and danced together after giving the couple best wishes of an ever-lasting happiness. = তারা বিয়ের ভোজ উপভোগ করেছিল, গান গাইছিল এবং নাচছিল একসাথে, দম্পতিকে চিরকাল সুখী থাকার জন্য শুভেচ্ছা জানিয়ে। !!",
+        
+        " ⚠️What did the bride and groom wear? = বর ও কনে কী পরেছিল? !!",
+        " ✅The bride wore a white wedding gown while the groom wore a black suit and tie. = কনে একটি সাদা বিয়ের গাউন পরেছিল, আর বর একটি কালো স্যুট ও টাই পরেছিল। !!",
+        
+        " ⚠️What was the most interesting ritual in the wedding? = বিয়ের সবচেয়ে আকর্ষণীয় রীতিটি কী ছিল? !!",
+        " ✅Exchanging rings is the ritual I’m quite interested in. = আংটি বদলানো হচ্ছে সেই রীতিটি, যা আমি বেশ আগ্রহের সাথে দেখি। !!",
+        
+        " ⚠️Are weddings a special event of one’s life in your country? = আপনার দেশে বিয়ে কি একজন মানুষের জীবনের একটি বিশেষ ঘটনা? !!",
+        " ✅Yes, along with birthdays. = হ্যাঁ, জন্মদিনের সাথে সাথে। !!",
+        
+        " ⚠️Do people in your country get married early? = আপনার দেশে মানুষ কি দ্রুত বিয়ে করে থাকে? !!",
+        " ✅Not really. The average age to get married for women is 27 and for men is 29. = আসলে না। মহিলাদের জন্য বিয়ের গড় বয়স ২৭ এবং পুরুষদের জন্য ২৯। !!",
+        
+        " ⚠️What is the ideal age to get married in your opinion? = আপনার মতে বিয়ে করার আদর্শ বয়স কত? !!",
+        " ✅Well. 27 would be my ideal age. Women are most charming and mature at that age, I guess. = তো, ২৭ হবে আমার আদর্শ বয়স। আমার ধারণা, মহিলারা ওই বয়সে সবচেয়ে আকর্ষণীয় এবং পরিপক্ব হয়। !!",
+        
+        " ⚠️How has wedding changed recently? = সম্প্রতি বিয়ে কিভাবে পরিবর্তিত হয়েছে? !!",
+        " ✅The most noticeable change is the reduce of rituals in a wedding. There used to be more steps in weddings years ago than there are now. = সবচেয়ে লক্ষ্যযোগ্য পরিবর্তন হচ্ছে বিয়ের অনুষ্ঠানে আচার-অনুষ্ঠানের সংখ্যা কমে যাওয়া। বছর আগে বিয়েতে বেশিরভাগ রীতি ছিল, কিন্তু এখন তা কমেছে। !!"
+    ]
+},
+
+{
+    "title": "A Coffee Shop",
+    "tex": [
+        " ⚠️What’s your favorite coffee shop? = আপনার প্রিয় কফি শপ কী? !!",
+        " ✅My favorite one is The Coffee House, a local coffee shop in my neighborhood. = আমার প্রিয় কফি শপ হল 'দ্য কফি হাউস', যা আমার পাড়া অঞ্চলের একটি স্থানীয় কফি শপ। !!",
+        
+        " ⚠️Where is it? = এটি কোথায় অবস্থিত? !!",
+        " ✅It’s 500 m far from my house. = এটি আমার বাড়ি থেকে ৫০০ মিটার দূরে অবস্থিত। !!",
+        
+        " ⚠️How often do you visit that coffee shop? = আপনি কত часто সেই কফি শপে যান? !!",
+        " ✅Every weekend when I hang out with my friends. The Coffee House is always our first choice. = আমি প্রতি সপ্তাহে শেষদিকে আমার বন্ধুদের সঙ্গে ঘুরতে যাওয়ার সময় সেখানে যাই। 'দ্য কফি হাউস' সবসময় আমাদের প্রথম পছন্দ। !!",
+        
+        " ⚠️Who do you go with? = আপনি কার সাথে সেখানে যান? !!",
+        " ✅I meet my friends there. They love the place, too. = আমি সেখানে আমার বন্ধুদের সঙ্গে মিলিত হই। তারা এই স্থানটি ভালোবাসে। !!",
+        
+        " ⚠️What drinks does it serve? = এখানে কী ধরনের পানীয় পরিবেশন করা হয়? !!",
+        " ✅Many kinds: coffee, chocolate, cocktail, smoothie, tea, juice of various tastes. My favorite one is hot chocolate. = অনেক ধরনের পানীয়: কফি, চকলেট, ককটেল, স্মুদি, চা, বিভিন্ন স্বাদের জুস। আমার প্রিয় পানীয় হল গরম চকলেট। !!",
+        
+        " ⚠️Are the waiters there friendly? = সেখানকার ওয়েটাররা কি বন্ধুত্বপূর্ণ? !!",
+        " ✅Yes, they couldn’t be nicer. = হ্যাঁ, তারা খুবই বন্ধুত্বপূর্ণ। !!",
+        
+        " ⚠️Do you like the decorations of that coffee shop? = আপনি কি ওই কফি শপের সজ্জা পছন্দ করেন? !!",
+        " ✅Yes, I love it. I fancy the green space they put in each corner of the room. = হ্যাঁ, আমি এটি পছন্দ করি। আমি তাদের রুমের প্রতিটি কোণে রাখা সবুজ স্থানটি ভালোবাসি। !!",
+        
+        " ⚠️When was the last time you went there? = আপনি শেষ কবে সেখানে গিয়েছিলেন? !!",
+        " ✅I last went there last Monday. = আমি শেষবার সেখানে গিয়েছিলাম গত সোমবার। !!",
+        
+        " ⚠️What is special about that coffee shop? = ওই কফি শপটির বিশেষত্ব কী? !!",
+        " ✅The drinks are what make them different. People are just addicted to full-bodied coffee and chocolate there. = তাদের বিশেষত্ব হলো তাদের পানীয়। মানুষ সেখানে পূর্ণ দেহযুক্ত কফি এবং চকলেটে আসক্ত। !!",
+        
+        " ⚠️How do you know about that coffee shop? = আপনি ওই কফি শপ সম্পর্কে কীভাবে জানতে পেরেছিলেন? !!",
+        " ✅My cousin recommended it to me and I did give it a try. = আমার চাচা/চাচী আমাকে এটি সুপারিশ করেছিলেন এবং আমি এটি চেষ্টা করেছিলাম। !!"
+    ]
+},
+
+{
+    "title": "Culture",
+    "tex": [
+        " ⚠️Which culture do you belong to? = আপনি কোন সংস্কৃতির অন্তর্ভুক্ত? !!",
+        " ✅I was born and raised in America where my culture was shaped. = আমি আমেরিকাতে জন্মগ্রহণ এবং বড় হয়েছি, যেখানে আমার সংস্কৃতির বিকাশ হয়েছে। !!",
+        
+        " ⚠️Is that a multicultural society? = এটি কি একটি বহু সংস্কৃতির সমাজ? !!",
+        " ✅Yes, it is. My culture is a diverse mix of customs and traditions of various races and ethnicities. = হ্যাঁ, এটি একটি বহু সংস্কৃতির সমাজ। আমার সংস্কৃতি বিভিন্ন জাতি ও বর্ণের ঐতিহ্য এবং রীতির একটি বৈচিত্র্যময় মিশ্রণ। !!",
+        
+        " ⚠️How long has your country been practicing those customs? = আপনার দেশ কতদিন ধরে ঐতিহ্যগুলো পালন করছে? !!",
+        " ✅Well, it has a long history, around 10,000 years ago. = এটি একটি দীর্ঘ ইতিহাস রয়েছে, প্রায় ১০,০০০ বছর আগে। !!",
+        
+        " ⚠️What custom do you like the most? = আপনি কোন রীতি সবচেয়ে বেশি পছন্দ করেন? !!",
+        " ✅I like practicing dining etiquette. That’s what makes me American whenever I travel to other countries. = আমি খাওয়ার শিষ্টাচার পালন করতে পছন্দ করি। এটি আমাকে যখনই অন্য দেশে যাই, আমেরিকান হিসেবে পরিচিত করে। !!",
+        
+        " ⚠️What are traditional costumes of men and women in your country? = আপনার দেশে পুরুষ এবং মহিলাদের ঐতিহ্যবাহী পোশাক কী কী? !!",
+        " ✅Cowboy hats and boots are American styles, but nowadays jeans and T-shirt are more preferable. = কাওবয় হ্যাট এবং বুটস আমেরিকান স্টাইল, তবে এখনকার দিনে জিন্স এবং টি-শার্ট বেশি পছন্দ করা হয়। !!",
+        
+        " ⚠️Are you comfortable with tradition and customs of your culture? = আপনি কি আপনার সংস্কৃতির রীতি এবং ঐতিহ্যে স্বাচ্ছন্দ্যবোধ করেন? !!",
+        " ✅Of course. I was born with it. = অবশ্যই। আমি এর সাথে জন্মগ্রহণ করেছি। !!",
+        
+        " ⚠️How do people greet each other? = মানুষ একে অপরকে কীভাবে শুভেচ্ছা জানায়? !!",
+        " ✅Well, it depends on the situation. In an informal communication, people just say ‘hi’. = এটি পরিস্থিতির উপর নির্ভর করে। অনানুষ্ঠানিক যোগাযোগে, মানুষ শুধু ‘হাই’ বলে। !!",
+        
+        " ⚠️Have you ever felt drawn to another land? = আপনি কি কখনো অন্য কোন দেশে যেতে আগ্রহী হয়েছেন? !!",
+        " ✅Yes, I’m interested in Indian culture. I wish I can get there someday to attend a typical Indian wedding. = হ্যাঁ, আমি ভারতীয় সংস্কৃতিতে আগ্রহী। আমি আশা করি একদিন সেখানে গিয়ে একটি সাধারণ ভারতীয় বিয়েতে উপস্থিত হতে পারব। !!"
+    ]
+},
+
+{
+    "title": "Transport",
+    "tex": [
+        " ⚠️What is the most popular means of transport in your country? = আপনার দেশে সবচেয়ে জনপ্রিয় পরিবহন ব্যবস্থা কী? !!",
+        " ✅Most people in my country travel by car. = আমার দেশে বেশিরভাগ মানুষ গাড়ি দিয়ে যাতায়াত করে। !!",
+        
+        " ⚠️How do you go to school or work? = আপনি স্কুল বা কাজে কীভাবে যান? !!",
+        " ✅I prefer bus due to its convenience. I enjoy reading books while sitting on the bus. = আমি বাসে যাওয়া পছন্দ করি কারণ এটি সুবিধাজনক। বাসে বসে বই পড়তে আমি উপভোগ করি। !!",
+        
+        " ⚠️How often do you take busses? = আপনি কতটা ঘনঘন বাসে যান? !!",
+        " ✅Every day. I went to school by bus 2 years ago, and the bus is still my best choice. = প্রতিদিন। আমি ২ বছর আগে বাসে স্কুলে যেতাম, এবং বাস এখনো আমার সবচেয়ে ভালো পছন্দ। !!",
+        
+        " ⚠️Do people in your country like traveling by bus? = আপনার দেশে মানুষ বাসে ভ্রমণ করতে পছন্দ করে? !!",
+        " ✅Not really, they have their own cars. = আসলে না, তারা নিজেদের গাড়ি ব্যবহার করে। !!",
+        
+        " ⚠️What are some benefits of traveling by bicycle? = সাইকেল চালিয়ে ভ্রমণের কিছু সুবিধা কী কী? !!",
+        " ✅It’s a good way of doing exercise. We can protect our environment as well. = এটি ব্যায়াম করার একটি ভালো উপায়। এছাড়া আমরা আমাদের পরিবেশও রক্ষা করতে পারি। !!",
+        
+        " ⚠️Do you prefer public transport or private transport? = আপনি কি পাবলিক ট্রান্সপোর্ট পছন্দ করেন, না কি প্রাইভেট ট্রান্সপোর্ট? !!",
+        " ✅Public transport is much cheaper. = পাবলিক ট্রান্সপোর্ট অনেক সস্তা। !!",
+        
+        " ⚠️Do you think bus should replace other means of transport? = আপনি কি মনে করেন বাস অন্য পরিবহন ব্যবস্থা বদলে দেওয়া উচিত? !!",
+        " ✅Sure. In the future, busses should be used widely by commuters. = অবশ্যই। ভবিষ্যতে বাসগুলো যাত্রীদের মধ্যে ব্যাপকভাবে ব্যবহৃত হওয়া উচিত। !!",
+        
+        " ⚠️What do the government do to encourage people to use public transport? = সরকার মানুষদের পাবলিক ট্রান্সপোর্ট ব্যবহার করতে উৎসাহিত করতে কী ব্যবস্থা নেয়? !!",
+        " ✅It’s a good idea to make public transport as convenient as private transport. Besides, more campaigns should be launched to raise the awareness of protecting our environment. = পাবলিক ট্রান্সপোর্টকে প্রাইভেট ট্রান্সপোর্টের মতো সুবিধাজনক করে তোলা একটি ভালো ধারণা। এছাড়া, আমাদের পরিবেশ রক্ষা করতে জনসাধারণের সচেতনতা বাড়ানোর জন্য আরো প্রচারণা চালানো উচিত। !!",
+        
+        " ⚠️How has the transport changed recently? = সম্প্রতি পরিবহন ব্যবস্থায় কী পরিবর্তন এসেছে? !!",
+        " ✅There are more cars in a household now than before, which partly leads to traffic jams in some cosmopolitan cities. = এখন এক একটি পরিবারের মধ্যে আগে চেয়ে বেশি গাড়ি রয়েছে, যা কিছু শহরে যানজটের কারণ হচ্ছে। !!"
+    ]
+},
+
+{
+    "title": "Politician",
+    "tex": [
+        " ⚠️Who is your favorite politician? = আপনার প্রিয় রাজনীতিবিদ কে? !!",
+        " ✅She’s Hillary Diane Rodham Clinton, an American politician. = তিনি হিলারি ডায়ান রডহাম ক্লিনটন, একজন আমেরিকান রাজনীতিবিদ। !!",
+        
+        " ⚠️Where is she from? = তিনি কোথা থেকে এসেছেন? !!",
+        " ✅She comes from the USA. = তিনি যুক্তরাষ্ট্র থেকে এসেছেন। !!",
+        
+        " ⚠️Does she appear on TV? = তিনি কি টিভিতে আসেন? !!",
+        " ✅Yes, quite often. She usually shows up on TV in news programs. = হ্যাঁ, বেশ Frequently। তিনি সাধারণত নিউজ প্রোগ্রামে টিভিতে উপস্থিত হন। !!",
+        
+        " ⚠️What is appealing about her? = তার মধ্যে কী আকর্ষণীয়? !!",
+        " ✅She’s a democratic politician. = তিনি একজন গণতান্ত্রিক রাজনীতিবিদ। !!",
+        
+        " ⚠️Is she famous? = তিনি কি বিখ্যাত? !!",
+        " ✅Yes, she’s well-known all over the world. = হ্যাঁ, তিনি পৃথিবীজুড়ে পরিচিত। !!",
+        
+        " ⚠️Does she have a great influence on people? = তার কি মানুষের ওপর বিশাল প্রভাব রয়েছে? !!",
+        " ✅Yes. I think so. She fights for human rights. She has a very controversial and influential speech that ‘human rights are women’s rights and women’s rights are human rights.’ = হ্যাঁ। আমি মনে করি তাই। তিনি মানবাধিকারের জন্য লড়াই করেন। তার একটি খুব বিতর্কিত এবং প্রভাবশালী বক্তৃতা রয়েছে, যা হল ‘মানবাধিকার হলো নারীদের অধিকার এবং নারীদের অধিকার হলো মানবাধিকার’। !!",
+        
+        " ⚠️Do you want to be like her? = আপনি কি তার মতো হতে চান? !!",
+        " ✅Being a politician has never been my dream, actually. = বাস্তবে রাজনীতিবিদ হওয়া কখনও আমার স্বপ্ন ছিল না। !!",
+        
+        " ⚠️Why do you admire her? = আপনি কেন তাকে শ্রদ্ধা করেন? !!",
+        " ✅She’s one of the few women who succeed in politics. = তিনি রাজনীতিতে সফল হওয়া একাধিক নারীদের মধ্যে একজন। !!",
+        
+        " ⚠️What did she do that you can tell others? = তিনি কী করেছেন যা আপনি অন্যদের বলতে পারেন? !!",
+        " ✅Oh, a lot of things. She cares for people’s health. She also tackles the issues of adoption and family safety. = ও, অনেক কিছু। তিনি মানুষের স্বাস্থ্য নিয়ে চিন্তা করেন। তিনি দত্তক গ্রহণ এবং পারিবারিক নিরাপত্তার সমস্যাগুলোও সমাধান করেন। !!"
+    ]
+},
+
+{
+    "title": "Communication",
+    "tex": [
+        " ⚠️What’re your favorite means of communication? = আপনার প্রিয় যোগাযোগের মাধ্যম কী? !!",
+        " ✅I prefer talking directly to people. = আমি সরাসরি মানুষদের সঙ্গে কথা বলতে পছন্দ করি। !!",
+        
+        " ⚠️How do you keep in touch with your friends? = আপনি কীভাবে আপনার বন্ধুদের সঙ্গে যোগাযোগ রাখেন? !!",
+        " ✅I’m so busy that I don’t often hang out with friends, so I usually get in touch with them using social networks or phone. = আমি এত ব্যস্ত যে আমি সাধারণত বন্ধুদের সঙ্গে বাইরে যেতে পারি না, তাই আমি সাধারণত সামাজিক নেটওয়ার্ক বা ফোনের মাধ্যমে তাদের সঙ্গে যোগাযোগ করি। !!",
+        
+        " ⚠️Do you get in touch with your family by phone? = আপনি কি আপনার পরিবারের সাথে ফোনে যোগাযোগ করেন? !!",
+        " ✅Yes, I do. I live away from my family, so phone would be an ideal means of communication. = হ্যাঁ, আমি করি। আমি আমার পরিবারের থেকে দূরে থাকি, তাই ফোন একটি আদর্শ যোগাযোগের মাধ্যম হবে। !!",
+        
+        " ⚠️Do you usually write letters or emails? = আপনি সাধারণত চিঠি বা ইমেল লেখেন? !!",
+        " ✅I used to write letters when the Internet hadn’t been used widely. Now I prefer emails due to its convenience. = আমি চিঠি লিখতাম যখন ইন্টারনেট ব্যাপকভাবে ব্যবহার করা হয়নি। এখন আমি ইমেল পছন্দ করি এর সুবিধার জন্য। !!",
+        
+        " ⚠️What are some advantages of using a mobile phone? = মোবাইল ফোন ব্যবহারের কিছু সুবিধা কী? !!",
+        " ✅That’s the easiest means of communication, I think. Mobile phones are portable. Just dial the numbers and you can immediately get connected with anyone you want. = আমার মনে হয় এটি যোগাযোগের সবচেয়ে সহজ মাধ্যম। মোবাইল ফোন সহজে বহনযোগ্য। শুধু নাম্বার ডায়াল করুন এবং আপনি সঙ্গে সঙ্গেই যাকে চান তাকে যোগাযোগ করতে পারবেন। !!",
+        
+        " ⚠️Do you like handwriting letters? = আপনি কি হাতের লেখা চিঠি পছন্দ করেন? !!",
+        " ✅Yes, I do. I like to keep handwriting letters as keepsakes. = হ্যাঁ, আমি করি। আমি হাতের লেখা চিঠিগুলো স্মৃতিচিহ্ন হিসেবে রাখতে পছন্দ করি। !!",
+        
+        " ⚠️Do you use social networks? = আপনি কি সামাজিক নেটওয়ার্ক ব্যবহার করেন? !!",
+        " ✅Yes, the youth now can hardly live without social networks. = হ্যাঁ, আজকাল তরুণেরা সামাজিক নেটওয়ার্ক ছাড়া খুব কমই বাঁচতে পারে। !!",
+        
+        " ⚠️Do you need communication skills using social networks? = আপনি কি সামাজিক নেটওয়ার্ক ব্যবহার করার জন্য যোগাযোগ দক্ষতা প্রয়োজন মনে করেন? !!",
+        " ✅Sure. Even in social networks. = অবশ্যই। সামাজিক নেটওয়ার্কেও। !!",
+        
+        " ⚠️How have social networks changed communication? = সামাজিক নেটওয়ার্ক যোগাযোগকে কীভাবে পরিবর্তন করেছে? !!",
+        " ✅People prefer talking online rather than directly. Because of the illusion of social networks, people tend to forget necessary skills to communicate with others in real life. = মানুষ সরাসরি কথা বলার চেয়ে অনলাইনে কথা বলা পছন্দ করে। সামাজিক নেটওয়ার্কের প্রভাবে, মানুষ বাস্তবে অন্যদের সঙ্গে যোগাযোগের জন্য প্রয়োজনীয় দক্ষতা ভুলে যায়। !!",
+        
+        " ⚠️Do you have good communication skills in your opinion? = আপনার মতে, আপনার কি ভালো যোগাযোগ দক্ষতা রয়েছে? !!",
+        " ✅Maybe yes. People are quite happy talking to me. = হয়তো। মানুষরা আমার সাথে কথা বলে বেশ খুশি থাকে। !!"
+    ]
+},
+
+{
+    "title": "Business",
+    "tex": [
+        " ⚠️Are you studying or working? = আপনি কি পড়াশোনা করছেন না কাজ করছেন? !!",
+        " ✅I left school 3 years ago. I’m working now. = আমি ৩ বছর আগে স্কুল ছেড়েছিলাম। এখন আমি কাজ করছি। !!",
+        
+        " ⚠️Are you self-employed or working for a company? = আপনি কি স্বতন্ত্রভাবে কাজ করেন না একটি কোম্পানিতে কাজ করছেন? !!",
+        " ✅I’m self-employed. I used to work for a company 2 years ago. = আমি স্বতন্ত্রভাবে কাজ করি। ২ বছর আগে আমি একটি কোম্পানিতে কাজ করতাম। !!",
+        
+        " ⚠️Are you running any business? = আপনি কি কোন ব্যবসা চালাচ্ছেন? !!",
+        " ✅Yes, I’m running a small business. = হ্যাঁ, আমি একটি ছোট ব্যবসা চালাচ্ছি। !!",
+        
+        " ⚠️What does your business sell? = আপনার ব্যবসা কী বিক্রি করে? !!",
+        " ✅I make and sell handmade cosmetics. = আমি হাতে তৈরি কসমেটিকস তৈরি করি এবং বিক্রি করি। !!",
+        
+        " ⚠️Do you have any difficulty running that business? = আপনার কি সেই ব্যবসা চালাতে কোন কষ্ট হচ্ছে? !!",
+        " ✅Yes, I had some difficulties attracting customers at first, but everything is getting better now. = হ্যাঁ, প্রথম দিকে গ্রাহকদের আকৃষ্ট করতে কিছু সমস্যা হয়েছিল, কিন্তু এখন সবকিছু ভালো হচ্ছে। !!",
+        
+        " ⚠️Is that an online or offline business? = এটি কি একটি অনলাইন ব্যবসা না অফলাইন ব্যবসা? !!",
+        " ✅I sell products online. It’s easier selling online than offline because I can take full advantage of my social network. = আমি অনলাইনে পণ্য বিক্রি করি। অনলাইনে বিক্রি করা অফলাইনের চেয়ে সহজ কারণ আমি আমার সামাজিক নেটওয়ার্কের পূর্ণ সুবিধা নিতে পারি। !!",
+        
+        " ⚠️When did you start the business? = আপনি কখন ব্যবসা শুরু করেছিলেন? !!",
+        " ✅I started running my own business 2 years ago. = আমি ২ বছর আগে আমার নিজস্ব ব্যবসা চালানো শুরু করেছিলাম। !!",
+        
+        " ⚠️What are some advantages of running your own business? = আপনার নিজস্ব ব্যবসা চালানোর কিছু সুবিধা কী? !!",
+        " ✅I can take some days off whenever I feel tired, and I can make much more money compared to working for a company. = আমি যখনই ক্লান্ত অনুভব করি, কিছু দিন ছুটি নিতে পারি, এবং কোম্পানিতে কাজ করার চেয়ে অনেক বেশি টাকা উপার্জন করতে পারি। !!"
+    ]
+},
+
+{
+    "title": "Computer",
+    "tex": [
+        " ⚠️Do you have your own computer? = আপনার কি নিজস্ব কম্পিউটার আছে? !!",
+        " ✅Yes, I owned a personal laptop when I was in university. = হ্যাঁ, বিশ্ববিদ্যালয়ে থাকাকালীন আমি একটি ব্যক্তিগত ল্যাপটপ ছিল। !!",
+        
+        " ⚠️How often do you use the computer? = আপনি কতটুকু সময় কম্পিউটার ব্যবহার করেন? !!",
+        " ✅Almost every day. I can’t work without a computer. = প্রায় প্রতিদিন। আমি কম্পিউটার ছাড়া কাজ করতে পারি না। !!",
+        
+        " ⚠️Have you ever joined any computer class? = আপনি কি কখনও কম্পিউটার ক্লাসে যোগ দিয়েছেন? !!",
+        " ✅Yes, years ago. I learned about Microsoft Word and Excel. = হ্যাঁ, কয়েক বছর আগে। আমি মাইক্রোসফট ওয়ার্ড এবং এক্সেল সম্পর্কে শিখেছিলাম। !!",
+        
+        " ⚠️What do you use the computer for? = আপনি কম্পিউটার কী জন্য ব্যবহার করেন? !!",
+        " ✅You know, I’m an accountant, so managing business records would be much easier for me using a computer. = আপনি জানেন, আমি একজন হিসাবরক্ষক, তাই ব্যবসায়ের রেকর্ড পরিচালনা করতে কম্পিউটার ব্যবহার আমার জন্য অনেক সহজ। !!",
+        
+        " ⚠️What are some advantages of using the computer? = কম্পিউটার ব্যবহার করার কিছু সুবিধা কী? !!",
+        " ✅With a computer connected to the Internet, we can shop, pay bills or do bank transactions online. Listening to music, watching movies are even more convenient. = ইন্টারনেটের সাথে সংযুক্ত একটি কম্পিউটার দিয়ে আমরা অনলাইনে কেনাকাটা, বিল পরিশোধ বা ব্যাংক লেনদেন করতে পারি। সঙ্গীত শোনা, সিনেমা দেখা আরও সুবিধাজনক। !!",
+        
+        " ⚠️Do you use other high-tech devices besides computers? = আপনি কি কম্পিউটারের বাইরে অন্য কোন উন্নত প্রযুক্তির যন্ত্র ব্যবহার করেন? !!",
+        " ✅Yes, apart from a computer, I also use a smartphone. = হ্যাঁ, কম্পিউটারের বাইরে আমি একটি স্মার্টফোনও ব্যবহার করি। !!",
+        
+        " ⚠️Should children learn how to use the computer? = কি শিশুদের কম্পিউটার ব্যবহার শিখানো উচিত? !!",
+        " ✅Yes, I think so. Children should be given chances to approach the computer but under the control of their parents. = হ্যাঁ, আমি মনে করি। শিশুদের কম্পিউটারের কাছে পৌঁছানোর সুযোগ দেওয়া উচিত কিন্তু তাদের অভিভাবকদের নিয়ন্ত্রণে। !!"
+    ]
+},
+
+{
+    "title": "Exercise",
+    "tex": [
+        " ⚠️Do you usually exercise? = আপনি কি সাধারণত ব্যায়াম করেন? !!",
+        " ✅Yes, I do. Doing exercise is one of my good habits. = হ্যাঁ, আমি করি। ব্যায়াম করা আমার ভালো অভ্যাসগুলোর একটি। !!",
+        
+        " ⚠️What sport do you play? = আপনি কী ধরনের খেলা খেলেন? !!",
+        " ✅Swimming is my favorite. I also play tennis. = সাঁতার আমার প্রিয়। আমি টেনিসও খেলি। !!",
+        
+        " ⚠️How often do you exercise? = আপনি কতটুকু সময় ব্যায়াম করেন? !!",
+        " ✅I go jogging almost every day before breakfast. = আমি প্রায় প্রতিদিন সকালবেলা প্রাতঃভ্রমণ করি। !!",
+        
+        " ⚠️When did you start doing exercise? = আপনি কখন ব্যায়াম করা শুরু করেছেন? !!",
+        " ✅Just last year, actually. = আসলে, গত বছর। !!",
+        
+        " ⚠️Is there anyone who does exercise with you? = কি কেউ আছেন যারা আপনার সাথে ব্যায়াম করেন? !!",
+        " ✅I go jogging with my older brother. He’s a good company of mine. = আমি আমার বড় ভাইয়ের সাথে প্রাতঃভ্রমণ করি। তিনি আমার ভালো সঙ্গী। !!",
+        
+        " ⚠️What benefits can you get from exercising? = ব্যায়াম করার কী কী সুবিধা পাওয়া যায়? !!",
+        " ✅Well, a lot. Exercise helps reduce fat and build muscles. It also keeps me awake mentally during the whole day. = ভালো, অনেক কিছু। ব্যায়াম ফ্যাট কমাতে এবং পেশী গঠনে সাহায্য করে। এটি আমাকে সারাদিন মানসিকভাবে সতেজ রাখে। !!",
+        
+        " ⚠️Where do you exercise? = আপনি কোথায় ব্যায়াম করেন? !!",
+        " ✅At a nearby park. There are some exercise machines for people to use. = কাছের একটি পার্কে। সেখানে মানুষের জন্য কিছু ব্যায়াম যন্ত্র রয়েছে। !!",
+        
+        " ⚠️Why do you exercise? = আপনি কেন ব্যায়াম করেন? !!",
+        " ✅I like moving. For me, life without moving is like a picture without color. = আমি চলাচল করতে পছন্দ করি। আমার জন্য, চলাচল ছাড়া জীবন এমন একটি ছবি যা রংহীন। !!",
+        
+        " ⚠️Do people in your country do much exercises? = আপনার দেশে কি মানুষ অনেক ব্যায়াম করে? !!",
+        " ✅I don’t think so. They’re so busy working that they forget to do exercise. = আমি মনে করি না। তারা কাজের মধ্যে এত ব্যস্ত থাকে যে তারা ব্যায়াম করতে ভুলে যায়। !!",
+        
+        " ⚠️What if people don’t do enough exercise? = যদি মানুষ পর্যাপ্ত ব্যায়াম না করে তাহলে কি হবে? !!",
+        " ✅Obviously, they’ll gain weights fast and become obese. = স্পষ্টতই, তারা দ্রুত ওজন বাড়াবে এবং মোটা হয়ে যাবে। !!"
+    ]
+},
+
+{
+    "title": "Goal/ Ambition",
+    "tex": [
+        " ⚠️What is your current short-term goal? = আপনার বর্তমান স্বল্পমেয়াদী লক্ষ্য কী? !!",
+        " ✅I’m determined to get a scholarship to study post-graduate abroad. = আমি বিদেশে পোস্ট-গ্র্যাজুয়েট পড়াশোনা করার জন্য একটি স্কলারশিপ পেতে দৃঢ়প্রতিজ্ঞ। !!",
+        
+        " ⚠️When did you start thinking about this goal? = আপনি কখন এই লক্ষ্য সম্পর্কে চিন্তা করা শুরু করেছেন? !!",
+        " ✅I started thinking about it when I left university. = আমি বিশ্ববিদ্যালয় ত্যাগ করার পর এটি সম্পর্কে চিন্তা করা শুরু করেছি। !!",
+        
+        " ⚠️What difficulties do you have in order to achieve it? = এটি অর্জন করতে আপনার কী কী সমস্যা হচ্ছে? !!",
+        " ✅Spending a lot of time searching it, I haven’t found any scholarship that fits my needs. = অনেক সময় অনুসন্ধান করার পরও, আমি এখনও কোনো স্কলারশিপ পাইনি যা আমার প্রয়োজনের সাথে মিলে। !!",
+        
+        " ⚠️Do you need any help to achieve that goal? = আপনি এই লক্ষ্য অর্জন করতে কোনো সাহায্য প্রয়োজন? !!",
+        " ✅I really need spiritual encouragement from my family and friends. = আমি সত্যিই আমার পরিবার ও বন্ধুদের কাছ থেকে আধ্যাত্মিক উৎসাহ প্রয়োজন। !!",
+        
+        " ⚠️Do your parents support you to achieve that goal? = আপনার পিতামাতারা কি আপনাকে সেই লক্ষ্য অর্জনে সহায়তা করেন? !!",
+        " ✅Yes, they do. They’re always by my side and support me when needed. = হ্যাঁ, তারা করেন। তারা সবসময় আমার পাশে থাকেন এবং প্রয়োজন হলে আমাকে সহায়তা করেন। !!",
+        
+        " ⚠️Do you think it’s important to set goals? = আপনি কি মনে করেন যে লক্ষ্য নির্ধারণ করা গুরুত্বপূর্ণ? !!",
+        " ✅Sure. We all need to have some goals to drive ourselves towards them. Setting goals is a necessary step to do in order to succeed in doing something. = অবশ্যই। আমাদের সবাইকে কিছু লক্ষ্য নির্ধারণ করা প্রয়োজন যেন আমরা সেগুলোর দিকে এগিয়ে যেতে পারি। লক্ষ্য নির্ধারণ করা কোনো কিছু সফলভাবে করার জন্য একটি অপরিহার্য পদক্ষেপ। !!",
+        
+        " ⚠️What are the important qualities to achieve goals? = লক্ষ্য অর্জন করার জন্য কি কি গুণাবলী গুরুত্বপূর্ণ? !!",
+        " ✅Well, you need to be persistent to what you desire to get. Commitment and patience are needed, too. = ভালো, আপনাকে আপনার চাওয়া অর্জন করার জন্য দৃঢ়প্রতিজ্ঞ হতে হবে। প্রতিশ্রুতি এবং ধৈর্যও প্রয়োজন। !!"
+    ]
+},
+
+{
+    "title": "Art",
+    "tex": [
+        " ⚠️What’s your favorite work of art? = আপনার প্রিয় শিল্পকর্ম কী? !!",
+        " ✅There’s a special photograph named ‘The Napalm Girl’. = একটি বিশেষ ফটোগ্রাফ আছে যার নাম ‘দ্য নেপাল্ম গার্ল’। !!",
+        
+        " ⚠️When did you see it? = আপনি কখন এটি দেখেছিলেন? !!",
+        " ✅I accidentally saw it 5 years ago, when I traveled to Vietnam. = আমি এটি পাঁচ বছর আগে случайно দেখেছিলাম, যখন আমি ভিয়েতনাম ভ্রমণ করছিলাম। !!",
+        
+        " ⚠️Where did you see it? = আপনি কোথায় এটি দেখেছিলেন? !!",
+        " ✅In Museum of Vietnamese History. The photo was solemnly hung in an eye-catching position in the room. = ভিয়েতনামি ইতিহাসের জাদুঘরে। ছবিটি রুমে চোখে পড়ার মতো একটি মনোরম স্থানে মহিমাম্বিতভাবে ঝুলানো ছিল। !!",
+        
+        " ⚠️Why do you like it? = আপনি কেন এটি পছন্দ করেন? !!",
+        " ✅The photo captured a naked 9 –year-old girl, running away from the napalm attack, which is really touching. = ছবিটি একটি নগ্ন ৯ বছরের মেয়েকে ধারণ করেছে, যা নেপাল্ম আক্রমণ থেকে পালাচ্ছে, যা সত্যিই হৃদয়গ্রাহী। !!",
+        
+        " ⚠️What’s special about it? = এটি কি বিশেষ? !!",
+        " ✅Thanks to the photo, the photographer was awarded the Pulitzer prize for Spot News Photography. = ছবিটির জন্য, ফটোগ্রাফার স্পট নিউজ ফটোগ্রাফির জন্য পুলিৎজার পুরস্কার পেয়েছিলেন। !!",
+        
+        " ⚠️Do your friends like it, too? = আপনার বন্ধুরা কি এটি পছন্দ করেন? !!",
+        " ✅Yes, they do. The photo did touch their souls, too. = হ্যাঁ, তারা করেন। ছবিটি তাদের হৃদয়কেও স্পর্শ করেছে। !!",
+        
+        " ⚠️Do you want to be an artist? = আপনি কি শিল্পী হতে চান? !!",
+        " ✅Nope, although I’m quite interested in art. = না, যদিও আমি শিল্পে বেশ আগ্রহী। !!",
+        
+        " ⚠️What qualities does a person need to be an artist? = একজন শিল্পী হতে হলে কিসের গুণাবলী প্রয়োজন? !!",
+        " ✅An artist needs to be creative and sensitive to things around him, I think. = একজন শিল্পীকে সৃজনশীল এবং তার আশপাশের জিনিসগুলোর প্রতি সংবেদনশীল হতে হবে, আমি মনে করি। !!",
+        
+        " ⚠️How do children develop their talent for art? = শিশুদের শিল্পে তাদের প্রতিভা কীভাবে বিকশিত হয়? !!",
+        " ✅Children’s talent for art should be recognized and nurtured as early as possible so that they can reach their full potential. = শিশুদের শিল্পে প্রতিভা যত তাড়াতাড়ি সম্ভব চিহ্নিত এবং লালিত হওয়া উচিত যেন তারা তাদের পূর্ণ সম্ভাবনা অর্জন করতে পারে। !!"
+    ]
+},
+
+{
+    "title": "Fashion",
+    "tex": [
+        " ⚠️Are you a big fan of fashion? = আপনি কি ফ্যাশনের বড় ভক্ত? !!",
+        " ✅Yes, I am. I believe every girl is crazy about fashion. = হ্যাঁ, আমি। আমি বিশ্বাস করি প্রতিটি মেয়ে ফ্যাশন নিয়ে পাগল। !!",
+        
+        " ⚠️What style do you choose to wear? = আপনি কী ধরনের পোশাক পরতে পছন্দ করেন? !!",
+        " ✅Well, my favorite piece of clothes is a dress. Depending on the situation, I choose a formal or informal dress to wear. = ভালো, আমার প্রিয় পোশাক হল একটি ড্রেস। পরিস্থিতির উপর নির্ভর করে, আমি একটি আনুষ্ঠানিক বা অনানুষ্ঠানিক ড্রেস পরতে পছন্দ করি। !!",
+        
+        " ⚠️Do you enjoy shopping for clothes? = আপনি কি পোশাক কেনা উপভোগ করেন? !!",
+        " ✅Yes, I’m a shopaholic, actually. = হ্যাঁ, আমি আসলে একটি শপাহলিক। !!",
+        
+        " ⚠️Is there any fashion icon who you want to wear the same? = এমন কোনও ফ্যাশন আইকন আছেন যাকে আপনি যেমন পোশাক পরতে চান? !!",
+        " ✅Yes, I really admire Taylor Swift and wish to wear like her. = হ্যাঁ, আমি টেলর সুইফটকে সত্যিই admire করি এবং তার মতো পোশাক পরতে চাই। !!",
+        
+        " ⚠️Do you create your own fashion style? = আপনি কি নিজের ফ্যাশন স্টাইল তৈরি করেন? !!",
+        " ✅No, I’m not a fashionista, so most of the time I just follow the fashion trend. = না, আমি ফ্যাশনিস্টা নই, তাই বেশিরভাগ সময় আমি শুধু ফ্যাশন ট্রেন্ড অনুসরণ করি। !!",
+        
+        " ⚠️Do you prefer vintage or modern style? Why? = আপনি কি ভিনটেজ না আধুনিক স্টাইল পছন্দ করেন? কেন? !!",
+        " ✅Honestly, I love vintage style. Wearing classic clothes makes me feel like I’m special. = সৎভাবে, আমি ভিনটেজ স্টাইল পছন্দ করি। ক্লাসিক পোশাক পরা আমাকে বিশেষ অনুভব করায়। !!",
+        
+        " ⚠️Have you ever attended in any fashion show? = আপনি কি কখনও কোনও ফ্যাশন শোতে অংশগ্রহণ করেছেন? !!",
+        " ✅Not in real life. I just watch them on TV. = বাস্তবে নয়। আমি শুধু টিভিতে দেখি। !!",
+        
+        " ⚠️What do people think about your fashion style? = আপনার ফ্যাশন স্টাইল সম্পর্কে মানুষ কী ভাবে? !!",
+        " ✅I don’t know exactly, and I don’t care much about it. I just wear what makes me comfortable and confident. = আমি ঠিক জানি না, এবং আমি এতে বেশি কিছু ভাবি না। আমি শুধু সেই পোশাক পরি যা আমাকে আরামদায়ক এবং আত্মবিশ্বাসী অনুভব করায়। !!",
+        
+        " ⚠️Are you going to change your fashion style in the future? = আপনি কি ভবিষ্যতে আপনার ফ্যাশন স্টাইল পরিবর্তন করবেন? !!",
+        " ✅Well, I can’t tell. Maybe fashion is changeable, and I am, too. = হ্যাঁ, আমি বলব না। হয়তো ফ্যাশন পরিবর্তনশীল, এবং আমি ও পরিবর্তনশীল। !!",
+        
+        " ⚠️Is fashion important to people? = মানুষের কাছে কি ফ্যাশন গুরুত্বপূর্ণ? !!",
+        " ✅Yes, in my opinion. Fashion can partly reveal who you are. = হ্যাঁ, আমার মতে। ফ্যাশন আংশিকভাবে আপনার পরিচয় প্রকাশ করতে পারে। !!"
+    ]
+},
+
+{
+    "title": "Jewelry",
+    "tex": [
+        " ⚠️What’s your favorite item of jewelry? = আপনার প্রিয় গহনা কী? !!",
+        " ✅Well, I have quite a lot of ornaments, but my favorite one is a necklace. = আচ্ছা, আমার অনেক গহনা আছে, কিন্তু আমার প্রিয় একটি হার। !!",
+        
+        " ⚠️When did you buy it? = আপনি কখন এটি কিনেছিলেন? !!",
+        " ✅Uhm…I don’t remember exactly when, but I guess I bought it years ago. = উম... আমি ঠিক মনে করতে পারি না কখন, তবে আমি মনে করি এটি আমি কয়েক বছর আগে কিনেছিলাম। !!",
+        
+        " ⚠️What’s it made of? = এটি কী দিয়ে তৈরি? !!",
+        " ✅It’s made of silver. = এটি সিলভার দিয়ে তৈরি। !!",
+        
+        " ⚠️How does it look? = এটি কেমন দেখায়? !!",
+        " ✅It looks gorgeous with a ruby clover-shaped pendant. = এটি একটি রুবি ক্লোভার আকৃতির পেনডেন্ট সহ দারুণ দেখায়। !!",
+        
+        " ⚠️Why do you like it? = আপনি এটি কেন পছন্দ করেন? !!",
+        " ✅I believe it can bring me good luck in everything I do. = আমি বিশ্বাস করি এটি আমাকে যা কিছু করি তাতে সাফল্য এনে দিতে পারে। !!",
+        
+        " ⚠️What’s special about it? = এর মধ্যে কী বিশেষ আছে? !!",
+        " ✅I love the vintage style of my necklace. It really goes with my classic dresses. = আমি আমার হারটির ভিনটেজ স্টাইল খুব পছন্দ করি। এটি আমার ক্লাসিক পোশাকের সাথে বেশ মানানসই। !!",
+        
+        " ⚠️Does it remind you of something? = এটি কি আপনাকে কিছু মনে করিয়ে দেয়? !!",
+        " ✅Yes, I spent my first month’s salary buying it, so the necklace encourages me to work hard and earn more money every day. = হ্যাঁ, আমি এটি কিনতে আমার প্রথম মাসের বেতন ব্যয় করেছিলাম, তাই এটি আমাকে প্রতিদিন কঠোর পরিশ্রম করতে এবং আরও টাকা উপার্জন করতে উৎসাহিত করে। !!",
+        
+        " ⚠️How much does it cost? = এর মূল্য কত? !!",
+        " ✅Around $400 if I’m not mistaken. = যদি আমি ভুল না হয়ে থাকি, এর মূল্য প্রায় ৪০০ ডলার। !!",
+        
+        " ⚠️Do you usually wear it? = আপনি কি সাধারণত এটি পরেন? !!",
+        " ✅Yes, I just wear it all the time. I’ll be missing it if I don’t see it. = হ্যাঁ, আমি এটি সবসময় পরি। যদি আমি এটি না দেখি তবে আমি এটি মিস করব। !!"
+    ]
+},
+
+{
+    "title": "Cosmetic",
+    "tex": [
+        " ⚠️What’s your favorite cosmetic item? = আপনার প্রিয় প্রসাধনী পণ্য কী? !!",
+        " ✅My favorite cosmetic item is a cherry red lipstick. = আমার প্রিয় প্রসাধনী পণ্য হল একটি চেরি লাল লিপস্টিক। !!",
+        
+        " ⚠️When did you buy it? = আপনি এটি কখন কিনেছিলেন? !!",
+        " ✅I bought it in a local cosmetic shop. = আমি এটি একটি স্থানীয় প্রসাধনী দোকান থেকে কিনেছিলাম। !!",
+        
+        " ⚠️How often do you use it? = আপনি কত ঘন ঘন এটি ব্যবহার করেন? !!",
+        " ✅Almost every day. I sometimes change the color. = প্রায় প্রতিদিন। মাঝে মাঝে আমি রং পরিবর্তন করি। !!",
+        
+        " ⚠️How did it change your physical appearance? = এটি আপনার শারীরিক চেহারা কিভাবে পরিবর্তন করেছে? !!",
+        " ✅Oh. At first, I was hesitant to try because I thought it wouldn’t match my skin undertone, but when putting it on, the cherry red color did make me more charming and gorgeous. = আচ্ছা। প্রথমে আমি চেষ্টা করতে দ্বিধাগ্রস্ত ছিলাম কারণ আমি ভেবেছিলাম এটি আমার ত্বকের রংয়ের সাথে মানানসই হবে না, কিন্তু এটি পরার পর, চেরি লাল রংটি আমাকে আরও আকর্ষণীয় এবং সুন্দর করে তুলেছিল। !!",
+        
+        " ⚠️Is it expensive? = এটি কি দামী? !!",
+        " ✅Nope. It is under $21 only. = না। এর দাম কেবল ২১ ডলারের নিচে। !!",
+        
+        " ⚠️Is the brand name famous? = ব্র্যান্ডের নাম কি বিখ্যাত? !!",
+        " ✅Yes, I think. M.A.C is well-known all around the world. M.A.C lipstick is an iconic product of the producer. = হ্যাঁ, আমি মনে করি। M.A.C সারা বিশ্বে পরিচিত। M.A.C লিপস্টিক হল প্রযোজকের একটি আইকনিক পণ্য। !!",
+        
+        " ⚠️How important are cosmetics according to you? = আপনার মতে প্রসাধনীগুলোর গুরুত্ব কতটা? !!",
+        " ✅Well, frankly, cosmetics are really important to women although I agree that the true beauty does come from inside. = ভাল, সৎভাবে বললে, প্রসাধনীগুলি মহিলাদের জন্য খুব গুরুত্বপূর্ণ, যদিও আমি একমত যে প্রকৃত সৌন্দর্য ভিতর থেকে আসে। !!",
+        
+        " ⚠️Is it important to have a good-looking appearance? = ভালো দেখতে থাকা কি গুরুত্বপূর্ণ? !!",
+        " ✅Sure. You will be given more opportunities if you’re good-looking. = অবশ্যই। আপনি যদি সুন্দর দেখতে হন, তবে আপনাকে আরও সুযোগ দেওয়া হবে। !!",
+        
+        " ⚠️Are cosmetics harmful? = প্রসাধনীগুলি কি ক্ষতিকর? !!",
+        " ✅Yes, I guess. Some toxic chemicals in cosmetics may cause skin cancer. = হ্যাঁ, আমি মনে করি। কিছু ক্ষতিকর রাসায়নিক প্রসাধনীগুলিতে ত্বক ক্যান্সারের কারণ হতে পারে। !!",
+        
+        " ⚠️Do think beauty products are a waste of money? = আপনি কি মনে করেন, সৌন্দর্য পণ্যগুলি টাকা নষ্ট? !!",
+        " ✅Not really as for me, I just spend my saving money on cosmetics. = আমার জন্য না, আমি কেবল আমার সঞ্চিত টাকা প্রসাধনীগুলির উপর ব্যয় করি। !!"
+    ]
+},
+
+{
+    "title": "Indoor Game",
+    "tex": [
+        " ⚠️What indoor game do you like to play? = আপনি কোন ইনডোর গেম খেলতে পছন্দ করেন? !!",
+        " ✅Uhm, I’m fond of playing bowling. = উহ, আমি বলিং খেলা পছন্দ করি। !!",
+        
+        " ⚠️When did you start playing it? = আপনি কখন এটি খেলতে শুরু করেছেন? !!",
+        " ✅I’ve just started bowling. It’s been 3 weeks so far. = আমি সম্প্রতি বলিং শুরু করেছি। এখন পর্যন্ত ৩ সপ্তাহ হয়েছে। !!",
+        
+        " ⚠️Who do you play it with? = আপনি এটা কাদের সাথে খেলেন? !!",
+        " ✅Most of the time I play with my friends when we hang out together. Sometimes, I also go bowling with my cousins. = বেশিরভাগ সময় আমি আমার বন্ধুদের সাথে খেলে থাকি যখন আমরা একসাথে সময় কাটাই। কখনও কখনও, আমি আমার চাচাতো ভাইদের সাথে বলিং খেলতে যাই। !!",
+        
+        " ⚠️Where do you play? = আপনি কোথায় এটি খেলেন? !!",
+        " ✅At a nearby shopping mall. There is an entertainment area where people can play various games. = কাছের একটি শপিং মলে। সেখানে একটি বিনোদন কেন্দ্র রয়েছে যেখানে মানুষ বিভিন্ন গেম খেলতে পারে। !!",
+        
+        " ⚠️Is it easy to play? = এটা কি খেলতে সহজ? !!",
+        " ✅Yes, quite easy. The bowler has to knock down as many pins as possible, ideally all of them. = হ্যাঁ, অনেকটা সহজ। বলারকে যত বেশি সম্ভব পিন ভেঙে ফেলতে হবে, আদর্শভাবে সবগুলো। !!",
+        
+        " ⚠️Are you usually the winner? = আপনি সাধারণত বিজয়ী হন? !!",
+        " ✅Nope, because I’m just a beginner. My friends are much more experienced in playing it. = না, কারণ আমি একজন নতুন খেলোয়াড়। আমার বন্ধুরা এতে অনেক বেশি অভিজ্ঞ। !!",
+        
+        " ⚠️Why do you like it? = আপনি এটি কেন পছন্দ করেন? !!",
+        " ✅Well, going bowling is quite enjoyable. I love it when my friends cheer me up. = ভাল, বলিং খেলা সত্যিই উপভোগ্য। যখন আমার বন্ধুরা আমাকে উৎসাহিত করে, আমি সেটি খুব পছন্দ করি। !!",
+        
+        " ⚠️Is it popular in your country? = এটি আপনার দেশে জনপ্রিয় কি? !!",
+        " ✅Yes, people playing almost everywhere. There are nearly 3,000 bowling centers in my country. = হ্যাঁ, মানুষ প্রায় সব জায়গায় বলিং খেলে। আমার দেশে প্রায় ৩,০০০ বলিং সেন্টার রয়েছে। !!",
+        
+        " ⚠️What are other indoor games in your country? = আপনার দেশে অন্য কোন ইনডোর গেম রয়েছে? !!",
+        " ✅There are many such as board game, table tennis, squash, boxing and so on. = এখানে অনেক গেম রয়েছে যেমন বোর্ড গেম, টেবিল টেনিস, স্কোয়াশ, বক্সিং ইত্যাদি। !!"
+    ]
+},
+
+{
+    "title": "Phone Conversation",
+    "tex": [
+        " ⚠️Do you usually talk on the phone? = আপনি কি সাধারণত ফোনে কথা বলেন? !!",
+        " ✅Yes, I do. It’s a good way to keep in touch. = হ্যাঁ, আমি কথা বলি। এটি যোগাযোগে থাকার একটি ভালো উপায়। !!",
+        
+        " ⚠️What was your favorite phone conversation? = আপনার প্রিয় ফোনে কথা বলার অভিজ্ঞতা কোনটি? !!",
+        " ✅It was when I talked to my interviewer. He did give me the good news that I got the job. = এটি ছিল যখন আমি আমার ইন্টারভিউয়ারের সাথে কথা বলেছিলাম। তিনি আমাকে ভালো খবরটি দিয়েছিলেন যে আমি চাকরি পেয়েছি। !!",
+        
+        " ⚠️When did you have the conversation? = আপনি কখন এই কথোপকথনটি করেছিলেন? !!",
+        " ✅I don’t remember exactly, but It’s been 2 years so far, I guess. = আমি সঠিকভাবে মনে করতে পারছি না, তবে মনে হয় ২ বছর হয়ে গেছে। !!",
+        
+        " ⚠️Who did you talk to? = আপনি কাকে কথা বলেছিলেন? !!",
+        " ✅I talked to the owner of the restaurant where I’m working as a cashier. = আমি সেই রেস্টুরেন্টের মালিকের সাথে কথা বলেছিলাম, যেখানে আমি ক্যাশিয়ার হিসেবে কাজ করছি। !!",
+        
+        " ⚠️What did you talk about? = আপনি কি বিষয়ে কথা বলেছিলেন? !!",
+        " ✅He offered me the position and congratulated me. = তিনি আমাকে পদের প্রস্তাব দিয়েছিলেন এবং অভিনন্দন জানিয়েছিলেন। !!",
+        
+        " ⚠️Why did you find the conversation interesting? = আপনি কেন ওই কথোপকথনটি আকর্ষণীয় মনে করেছিলেন? !!",
+        " ✅Actually, it was more exciting than interesting. I was waiting for it for so long, and finally, he did make it come true. = আসলে, এটি আকর্ষণীয় থেকে অনেক বেশি উত্তেজনাপূর্ণ ছিল। আমি এটা অনেক দিন ধরে অপেক্ষা করছিলাম, এবং অবশেষে তিনি এটি বাস্তবায়িত করলেন। !!",
+        
+        " ⚠️Do you prefer talking directly or talking on the phone? = আপনি কি সরাসরি কথা বলা পছন্দ করেন নাকি ফোনে কথা বলা? !!",
+        " ✅Personally, talking directly is much better to me since it’s more lively and authentic. = ব্যক্তিগতভাবে, সরাসরি কথা বলা আমার জন্য অনেক ভালো, কারণ এটি বেশি জীবন্ত এবং প্রামাণিক। !!",
+        
+        " ⚠️Who do you usually talk to on the phone? = আপনি সাধারণত ফোনে কাদের সাথে কথা বলেন? !!",
+        " ✅I talk to my mom almost every day. I will be missing the conversation every evening with mom if one day she stops calling me. = আমি প্রায় প্রতিদিনই আমার মায়ের সাথে কথা বলি। একদিন যদি তিনি আমাকে ফোন করা বন্ধ করেন, তবে আমি প্রতিদিন সন্ধ্যায় মায়ের সাথে কথা বলাটাকে মিস করবো। !!",
+        
+        " ⚠️What are the differences between talking directly and phoning? = সরাসরি কথা বলা এবং ফোনে কথা বলার মধ্যে কী পার্থক্য রয়েছে? !!",
+        " ✅Well, talking directly seems more exciting since you can see facial expression, eye contact while talking on the phone, you can only listen to the voice. = ভাল, সরাসরি কথা বলা বেশি উত্তেজনাপূর্ণ মনে হয়, কারণ আপনি কথোপকথনের সময় মুখাবয়ব, চোখের যোগাযোগ দেখতে পারেন, কিন্তু ফোনে কথা বললে আপনি শুধু কণ্ঠ শুনতে পারেন। !!"
+    ]
+},
+
+{
+    "title": "Learning A Second Language",
+    "tex": [
+        " ⚠️Do you like learning languages? = আপনি কি ভাষা শিখতে পছন্দ করেন? !!",
+        " ✅Yes, I do. I love traveling and talking to the local people in their mother tongue. = হ্যাঁ, আমি পছন্দ করি। আমি ভ্রমণ করতে এবং স্থানীয় মানুষদের সাথে তাদের মাতৃভাষায় কথা বলতে ভালোবাসি। !!",
+        
+        " ⚠️What is your mother language? = আপনার মাতৃভাষা কী? !!",
+        " ✅I speak English. = আমি ইংরেজি বলি। !!",
+        
+        " ⚠️What second language are you learning? = আপনি কোন দ্বিতীয় ভাষা শিখছেন? !!",
+        " ✅I’m learning Spanish. I fell in love with Spanish when I traveled to Spain last year. = আমি স্প্যানিশ শিখছি। গত বছর স্পেনে ভ্রমণ করার সময় আমি স্প্যানিশ ভাষার প্রেমে পড়ে গেছি। !!",
+        
+        " ⚠️Is that language popular in your country? = আপনার দেশে কি সেই ভাষাটি জনপ্রিয়? !!",
+        " ✅Yes. People in my country come from every corner of the world and Spanish is the second popular language spoken here according to the statistic. = হ্যাঁ। আমার দেশে বিশ্বের প্রতিটি কোণ থেকে মানুষ আসেন এবং পরিসংখ্যান অনুযায়ী স্প্যানিশ ভাষা এখানে দ্বিতীয় জনপ্রিয় ভাষা। !!",
+        
+        " ⚠️How often do you use that language? = আপনি কতটুকু সেই ভাষা ব্যবহার করেন? !!",
+        " ✅Quite a lot. I see Spanish people every day in the restaurant, bank or supermarket. = বেশ ভালোই। আমি প্রতিদিন রেস্টুরেন্ট, ব্যাংক বা সুপারমার্কেটে স্প্যানিশ ভাষাভাষী মানুষদের দেখি। !!",
+        
+        " ⚠️How long have you been learning that language? = আপনি কতদিন ধরে সেই ভাষা শিখছেন? !!",
+        " ✅I’ve been learning it for 5 years. I’m in advanced class now. = আমি ৫ বছর ধরে এটি শিখছি। এখন আমি উন্নত ক্লাসে আছি। !!",
+        
+        " ⚠️Why do you choose to learn that language? = আপনি কেন সেই ভাষা শিখতে বেছে নিয়েছেন? !!",
+        " ✅I’m interested in Spanish culture, and I’d like to use language as a tool to discover Spanish cultural values. = আমি স্প্যানিশ সংস্কৃতির প্রতি আগ্রহী, এবং আমি ভাষাকে একটি উপকরণ হিসেবে ব্যবহার করতে চাই স্প্যানিশ সাংস্কৃতিক মূল্যবোধ আবিষ্কার করার জন্য। !!",
+        
+        " ⚠️Who is your teacher? = আপনার শিক্ষক কে? !!",
+        " ✅An old Spanish teacher. She can also speak English fluently. = একজন পুরনো স্প্যানিশ শিক্ষক। তিনি ইংরেজি ভাষাও দক্ষতার সাথে বলতে পারেন। !!",
+        
+        " ⚠️Why do people learn a second language? = মানুষরা কেন দ্বিতীয় ভাষা শিখে? !!",
+        " ✅There are many purposes. Some learn to do business, some learn to travel, some just learn for fun. = এর অনেক কারণ রয়েছে। কেউ ব্যবসা করার জন্য শেখে, কেউ ভ্রমণের জন্য শেখে, কেউ শুধুমাত্র মজা করার জন্য শেখে। !!"
+    ]
+},
+
+{
+    "title": "A Creative Person",
+    "tex": [
+        " ⚠️Who is the creative person that you admire? = আপনি যাকে admire করেন এমন সৃজনশীল ব্যক্তি কে? !!",
+        " ✅Well, I really admire Mr.Tom, who is an extremely creative Math teacher. = আচ্ছা, আমি সত্যিই Mr.Tom কে admire করি, যিনি একজন অত্যন্ত সৃজনশীল গণিত শিক্ষক। !!",
+        
+        " ⚠️Why do you admire him? = আপনি কেন তাকে admire করেন? !!",
+        " ✅For me, Math is quite boring because I have to work with long numbers. I used to hate Math so much before I had lessons with Mr.Tom. He has thousands of ways to teach that boring subject, which inspires me a lot. = আমার জন্য গণিত অনেকই বোরিং, কারণ আমাকে দীর্ঘ সংখ্যার সাথে কাজ করতে হয়। Mr.Tom-এর পাঠ নেওয়ার আগে আমি গণিতকে এত ভালোবাসতাম না। তিনি সেই বোরিং বিষয়টি শেখানোর হাজারো উপায় জানেন, যা আমাকে অনেক অনুপ্রাণিত করেছে। !!",
+        
+        " ⚠️How did he become so creative? = তিনি এত সৃজনশীল কিভাবে হলেন? !!",
+        " ✅I’m not quite sure, but I think that’s his inborn talent. = আমি পুরোপুরি নিশ্চিত না, তবে আমার মনে হয় এটি তার জন্মগত প্রতিভা। !!",
+        
+        " ⚠️Do people you know admire him, too? = আপনি যাদের চেনেন তারা কি তাকে admire করে? !!",
+        " ✅Of course. All my classmates just love and respect him for his creative teaching. = অবশ্যই। আমার সব ক্লাসমেট তার সৃজনশীল শিক্ষার জন্য তাকে ভালোবাসে এবং সম্মান জানায়। !!",
+        
+        " ⚠️What is he like? = তিনি কেমন মানুষ? !!",
+        " ✅He has a good sense of humor. He always tells jokes, and we just can’t help laughing. = তার খুব ভালো হাস্যরসের অনুভূতি রয়েছে। তিনি সবসময় রসিকতা করেন, এবং আমরা শুধুমাত্র হাসতে হাসতে থামতে পারি না। !!",
+        
+        " ⚠️Do you think creativity can be learned and practiced? = আপনি কি মনে করেন সৃজনশীলতা শিখে এবং অনুশীলন করে অর্জিত হতে পারে? !!",
+        " ✅Yes, I definitely do. Creativity, like any other qualities, can be trained. = হ্যাঁ, আমি নিশ্চিত। সৃজনশীলতা, অন্যান্য গুণাবলীর মতো, প্রশিক্ষণ দিয়ে অর্জিত হতে পারে। !!",
+        
+        " ⚠️How is creativity important in study or work? = পড়াশোনা বা কাজের মধ্যে সৃজনশীলতা কেমন গুরুত্বপূর্ণ? !!",
+        " ✅It generates energy and makes things more inspiring. Without creativity, work and study are just dull and tiring. = এটি শক্তি তৈরি করে এবং বিষয়গুলোকে আরও অনুপ্রেরণামূলক করে তোলে। সৃজনশীলতা ছাড়া, কাজ এবং পড়াশোনা শুধুমাত্র নীরস এবং ক্লান্তিকর হয়ে পড়ে। !!"
+    ]
+},
+
+{
+    "title": "A Celebrity",
+    "tex": [
+        " ⚠️Who is a famous celebrity that you admire? = আপনি যে বিখ্যাত সেলিব্রিটি admire করেন, তিনি কে? !!",
+        " ✅Well, I’m a big fan of Miley Ray Cyrus, an American singer, songwriter, and actress. = আচ্ছা, আমি Miley Ray Cyrus-এর খুব বড় ফ্যান, তিনি একজন আমেরিকান গায়িকা, গীতিকার এবং অভিনেত্রী। !!",
+        
+        " ⚠️Why do you admire her? = আপনি তাকে কেন admire করেন? !!",
+        " ✅Well, she’s at my age, but what she’s achieved is acknowledged worldwide. = আচ্ছা, সে আমার বয়সী, কিন্তু সে যা অর্জন করেছে তা সারা বিশ্বে স্বীকৃত। !!",
+        
+        " ⚠️What is special about her? = তার মধ্যে কি বিশেষ কিছু আছে? !!",
+        " ✅I just fall in love with her beautiful voice. I can’t stop listening to her songs again and again. My favorite songs of hers are Jolene and Wrecking Ball. = আমি তার সুন্দর কণ্ঠে প্রেমে পড়ে গেছি। আমি তার গানগুলো বারবার শোনার জন্য থামতে পারি না। তার দুটি প্রিয় গান হল Jolene এবং Wrecking Ball। !!",
+        
+        " ⚠️Is she well-known worldwide? = তিনি কি সারা বিশ্বে পরিচিত? !!",
+        " ✅Yes, she is. She’s a teen idol. = হ্যাঁ, তিনি। তিনি একটি টিন আইডল। !!",
+        
+        " ⚠️Do you see her on TV or in reality? = আপনি তাকে টিভিতে দেখেন নাকি বাস্তবে? !!",
+        " ✅Most of the time I see her on TV. = বেশিরভাগ সময় আমি তাকে টিভিতে দেখি। !!",
+        
+        " ⚠️Do your friends love her, too? = আপনার বন্ধুরা কি তাকে ভালোবাসে? !!",
+        " ✅Yes, they do. We usually enjoy her songs, movies together. = হ্যাঁ, তারা। আমরা সাধারণত তার গান ও সিনেমা একসাথে উপভোগ করি। !!",
+        
+        " ⚠️Do you want to be like her? = আপনি কি তার মতো হতে চান? !!",
+        " ✅Yes, being a well-known singer is my dream. = হ্যাঁ, একজন বিখ্যাত গায়িকা হওয়া আমার স্বপ্ন। !!"
+    ]
+},
+
+{
+    "title": "A Health Problem",
+    "tex": [
+        " ⚠️What health problem did you have? = আপনি কোন স্বাস্থ্য সমস্যায় ভুগেছিলেন? !!",
+        " ✅I had measles when I was 18. = আমি ১৮ বছর বয়সে মিজলস হয়েছিল। !!",
+        
+        " ⚠️How did you have that health problem? = আপনি কীভাবে ওই স্বাস্থ্য সমস্যাটি পেয়েছিলেন? !!",
+        " ✅I thought I catch measles from someone when they cough or sneeze. = আমি মনে করেছিলাম, কাউকে কাশি বা হাঁচি দেওয়ার সময় আমি মিজলস পেয়েছি। !!",
+        
+        " ⚠️Was that serious? = এটি কি সিরিয়াস ছিল? !!",
+        " ✅Not really, but it was unpleasant. I recovered after 10 days staying at home. = আসলে নয়, তবে এটি অস্বস্তিকর ছিল। আমি ১০ দিন বাড়িতে থাকার পর সুস্থ হয়ে উঠেছিলাম। !!",
+        
+        " ⚠️What were some symptoms of that health problem? = ওই স্বাস্থ্য সমস্যার কিছু উপসর্গ কী ছিল? !!",
+        " ✅I had a cold and fever with a cough, a runny nose. The small grayish-white spots appeared on my body, too. = আমার সর্দি, জ্বর, কাশি এবং নাক বন্ধ ছিল। ছোট ধূসর-সাদা দাগও আমার শরীরে দেখা দিয়েছিল। !!",
+        
+        " ⚠️Did you take any medical treatment? = আপনি কি কোনো চিকিৎসা নিয়েছিলেন? !!",
+        " ✅No, I didn’t. The situation wasn’t serious enough to be sent to the hospital then. = না, আমি চিকিৎসা নিইনি। তখন পরিস্থিতি এতটা গুরুতর ছিল না যে আমাকে হাসপাতালে পাঠানো প্রয়োজন হতো। !!",
+        
+        " ⚠️How could you recover from it? = আপনি কীভাবে তা থেকে সুস্থ হয়ে উঠলেন? !!",
+        " ✅Well, let me see, I drank a lot of water, avoided the direct light, and I had to stay off school for 10 days. = আচ্ছা, দেখি, আমি অনেক পানি খেয়েছিলাম, সরাসরি আলো থেকে বিরত ছিলাম এবং ১০ দিন স্কুলে যাওয়া থেকে বিরত থাকতে হয়েছিল। !!",
+        
+        " ⚠️What difficulties did you face because of that problem? = ওই সমস্যার কারণে আপনি কী কী কষ্ট পেয়েছিলেন? !!",
+        " ✅I couldn’t go out for a few days, which was boring. I’m not allowed to play outside and I felt so bad about it. = আমি কয়েকদিন বাইরে যেতে পারিনি, যা বিরক্তিকর ছিল। আমাকে বাইরে খেলার অনুমতি ছিল না এবং আমি এটি নিয়ে খুব খারাপ অনুভব করেছিলাম। !!",
+        
+        " ⚠️What do people do to prevent that health problem? = মানুষ কীভাবে ওই স্বাস্থ্য সমস্যা প্রতিরোধ করে? !!",
+        " ✅By having measles vaccine. = মিজলস ভ্যাকসিন গ্রহণ করে। !!",
+        
+        " ⚠️Is that health problem common in your country? = আপনার দেশে ওই স্বাস্থ্য সমস্যা কি সাধারণ? !!",
+        " ✅Not really, due to the effectiveness of vaccination. = না, ভ্যাকসিনের কার্যকারিতার কারণে এটি সাধারণ নয়। !!"
+    ]
+},
+
+{
+    "title": "Technological Advancements",
+    "tex": [
+        " ⚠️Are you a tech and gadget lover? = আপনি কি প্রযুক্তি এবং গ্যাজেট পছন্দ করেন? !!",
+        " ✅Yes, I am. I love shopping for new gadgets. = হ্যাঁ, আমি করি। নতুন গ্যাজেট কেনার জন্য আমি পছন্দ করি। !!",
+        
+        " ⚠️What is an important technological advancement you know? = আপনি কোন গুরুত্বপূর্ণ প্রযুক্তিগত উন্নয়ন জানেন? !!",
+        " ✅That’s the emergence of online payment systems like Credit Cards or Paypal thanks to the development of the Internet, I think. = আমি মনে করি, এটি অনলাইন পেমেন্ট সিস্টেমের উদ্ভব, যেমন ক্রেডিট কার্ড বা পেপ্যাল, যা ইন্টারনেটের উন্নতির জন্য সম্ভব হয়েছে। !!",
+        
+        " ⚠️What do you use it for? = আপনি এটি কী জন্য ব্যবহার করেন? !!",
+        " ✅I use these services to do shopping online. Now I can book flight tickets in advance without the need to go to the agency. = আমি এই সার্ভিসগুলি অনলাইনে কেনাকাটা করার জন্য ব্যবহার করি। এখন আমি এজেন্সিতে না গিয়ে আগেই ফ্লাইট টিকেট বুক করতে পারি। !!",
+        
+        " ⚠️How long have you been using it? = আপনি কত দিন ধরে এটি ব্যবহার করছেন? !!",
+        " ✅I’ve been using these services for around 3 years. = আমি এই সার্ভিসগুলি প্রায় ৩ বছর ধরে ব্যবহার করছি। !!",
+        
+        " ⚠️Does it make your life easier? = এটি কি আপনার জীবন সহজ করে? !!",
+        " ✅Sure. It’s fast, simple and convenient. = নিশ্চয়ই। এটি দ্রুত, সহজ এবং সুবিধাজনক। !!",
+        
+        " ⚠️How did it change your life? = এটি আপনার জীবন কিভাবে পরিবর্তন করেছে? !!",
+        " ✅Well, I can enjoy my life more. I can do a plenty of things online like shopping, transferring money, booking tickets, and so on. = আচ্ছা, আমি আমার জীবন আরও উপভোগ করতে পারি। আমি অনলাইনে অনেক কিছু করতে পারি, যেমন কেনাকাটা, টাকা স্থানান্তর, টিকেট বুকিং ইত্যাদি। !!",
+        
+        " ⚠️How often do you use it? = আপনি এটি কতটা ব্যবহার করেন? !!",
+        " ✅At least once a week. = অন্তত একবার সাপ্তাহিকভাবে। !!",
+        
+        " ⚠️What are other technological advancements you know? = আপনি আরও কোন প্রযুক্তিগত উন্নয়ন জানেন? !!",
+        " ✅There are many: electricity, smartphone, the internet, robot, and so on. = অনেক কিছু রয়েছে: বিদ্যুৎ, স্মার্টফোন, ইন্টারনেট, রোবট ইত্যাদি। !!"
+    ]
+},
+
+{
+    "title": "A Landmark",
+    "tex": [
+        " ⚠️What is a famous landmark in your hometown? = আপনার শহরে কোন বিখ্যাত landmark রয়েছে? !!",
+        " ✅Well, I can’t hide my proud to talk about the Statue of Liberty. = আচ্ছা, আমি গর্বিতভাবে স্ট্যাচু অফ লিবারটির কথা বলবো। !!",
+        
+        " ⚠️When was it built? = এটি কখন তৈরি হয়েছিল? !!",
+        " ✅I read on newspapers that It was constructed in 1886. = আমি সংবাদপত্রে পড়েছি যে এটি ১৮৮৬ সালে নির্মিত হয়েছিল। !!",
+        
+        " ⚠️Where is it? = এটি কোথায় অবস্থিত? !!",
+        " ✅It’s located on Liberty island in New York Harbor. = এটি নিউইয়র্ক হার্বারের লিবার্টি আইল্যান্ডে অবস্থিত। !!",
+        
+        " ⚠️How does it look like? = এটি কেমন দেখতে? !!",
+        " ✅That’s a woman, known as the Roman goddess, bearing a torch and a broken chain lies at her feet. = এটি একটি মহিলার মূর্তি, যিনি রোমান দেবী হিসেবে পরিচিত, একটি মশাল ধারণ করে এবং তার পায়ে একটি ভাঙা শৃঙ্খল রয়েছে। !!",
+        
+        " ⚠️What was it made of? = এটি কি দিয়ে তৈরি? !!",
+        " ✅The main material was copper. = মূল উপাদান ছিল তামা। !!",
+        
+        " ⚠️Who was the architect? = এর স্থপতি কে ছিলেন? !!",
+        " ✅Mr.Gustave Eiffel, who also designed the tower of Eiffel. = মি. গুস্তাভ আইফেল, যিনি আইফেল টাওয়ারও ডিজাইন করেছিলেন। !!",
+        
+        " ⚠️What is special about it? = এর বিশেষত্ব কী? !!",
+        " ✅Actually, it was gifted to my country, the USA from the people of France. = আসলে, এটি আমার দেশ, ইউএসএ-তে ফ্রান্সের জনগণের কাছ থেকে উপহার হিসেবে দেওয়া হয়েছিল। !!",
+        
+        " ⚠️Does it symbolize something? = এটি কি কিছু প্রতীকী? !!",
+        " ✅The statue is a symbol of freedom. We all love it and are so proud to share with international friends about it. = এটি স্বাধীনতার প্রতীক। আমরা সবাই এটি ভালোবাসি এবং আন্তর্জাতিক বন্ধুদের সাথে এটি শেয়ার করতে গর্বিত। !!",
+        
+        " ⚠️Does it attract many tourists to come? = এটি কি অনেক পর্যটককে আকর্ষণ করে? !!",
+        " ✅Yup. It attracts 4 million visitors each year according to the statistic. = হ্যাঁ। পরিসংখ্যান অনুযায়ী এটি প্রতি বছর ৪ মিলিয়ন দর্শককে আকর্ষণ করে। !!"
+    ]
+},
+
+{
+  "title": "Handcraft Items",
+  "tex": [
+    "⚠️Do you love handcraft items? = আপনি কি হ্যান্ডক্রাফট আইটেম পছন্দ করেন? !!",
+    "✅Yeah. My accessories are all hand-made. = হ্যাঁ, আমার সব আনুষাঙ্গিকই হ্যান্ড-মেড। !!",
+    
+    "⚠️What handcraft item do you like? = আপনি কোন হ্যান্ডক্রাফট আইটেম পছন্দ করেন? !!",
+    "✅Well, I’ve got many items, but I really fall in love with my bamboo handbag. = আমার অনেক হ্যান্ডক্রাফট আইটেম আছে, তবে আমি আমার বাঁশের ব্যাগটি খুব পছন্দ করি। !!",
+    
+    "⚠️Where did you buy it? = আপনি এটা কোথা থেকে কিনেছেন? !!",
+    "✅I bought it in a trip to the countryside. People make handcrafts from bamboo there. = আমি এটা গ্রামে ভ্রমণ করার সময় কিনেছি। সেখানে মানুষ বাঁশ দিয়ে হ্যান্ডক্রাফট তৈরি করে। !!",
+    
+    "⚠️Why do you like it? = আপনি এটা কেন পছন্দ করেন? !!",
+    "✅Because it’s unique. I travel quite a lot, but can hardly find a similar one. = কারণ এটি অনন্য। আমি অনেক ভ্রমণ করি, তবে এর মত একই জিনিস খুব কমই পাই। !!",
+    
+    "⚠️What is it made of? = এটি কী দিয়ে তৈরি? !!",
+    "✅It’s made of 100% bamboo. = এটি ১০০% বাঁশ দিয়ে তৈরি। !!",
+    
+    "⚠️What does it look like? = এটি কেমন দেখতে? !!",
+    "✅Being made of traditional material, it looks trendy, though. My handcraft bag has A4 paper size, which is large enough to carry a bunch of stuff: makeup things, a wallet, and tissues. = এটি ঐতিহ্যবাহী উপকরণ দিয়ে তৈরি, তবুও এটি ট্রেন্ডি দেখায়। আমার হ্যান্ডক্রাফট ব্যাগের আকার A4 কাগজের মতো, যা অনেক কিছু বহন করার জন্য যথেষ্ট বড়: মেকআপ আইটেম, একটি মানিব্যাগ এবং টিস্যু। !!",
+    
+    "⚠️How is it made? = এটি কীভাবে তৈরি হয়? !!",
+    "✅Luckily, I had a chance to see how it is made. People spent the whole day knitting hundreds of small bamboo fibers together to make one bag. = সৌভাগ্যবশত, আমি দেখার সুযোগ পেয়েছিলাম এটি কীভাবে তৈরি হয়। মানুষ একটি ব্যাগ তৈরি করতে ছোট ছোট বাঁশের তন্তু একসাথে বুনতে পুরো দিন কাটিয়েছিল। !!",
+    
+    "⚠️Is it easy to make? = এটি কি তৈরি করা সহজ? !!",
+    "✅Nope. I’m not really skillful and patient, so handcrafts seem super hard for me. = না, আমি তেমন দক্ষ এবং ধৈর্যশীল নই, তাই হ্যান্ডক্রাফট আমার জন্য খুব কঠিন মনে হয়। !!",
+    
+    "⚠️What is special about it? = এর বিশেষত্ব কী? !!",
+    "✅The material itself is what makes it special. It’s eco-friendly as well. = উপকরণটাই এটি বিশেষ করে তোলে। এটি পরিবেশ বান্ধবও। !!",
+    
+    "⚠️Does it remind you of something? = এটি কি আপনাকে কিছু মনে করিয়ে দেয়? !!",
+    "✅Yup. It reminds me of the peaceful and quiet atmosphere of the countryside where I visited. = হ্যাঁ, এটি আমাকে সেই শান্ত ও নিরব গ্রামীণ পরিবেশের কথা মনে করিয়ে দেয় যেখানে আমি গিয়েছিলাম। !!"
+  ]
+},
+
+{
+  "title": "Plastic Surgery",
+  "tex": [
+    "⚠️Is plastic surgery popular in your country? = আপনার দেশে কি প্লাস্টিক সার্জারি জনপ্রিয়? !!",
+    "✅Not really. People in my country are not so interested in plastic surgery. = আসলে না। আমার দেশে মানুষ খুব একটা প্লাস্টিক সার্জারিতে আগ্রহী নয়। !!",
+    
+    "⚠️What do you think about people having plastic surgery? = প্লাস্টিক সার্জারি করা মানুষের বিষয়ে আপনি কী মনে করেন? !!",
+    "✅It’s hard to say. As long as they find happiness in what they’re doing, it’s fine with me. = বলা মুশকিল। যতক্ষণ তারা যা করছে তাতে সুখী, ততক্ষণ আমার কাছে সমস্যা নেই। !!",
+    
+    "⚠️Why do you think people do it? = আপনি কেন মনে করেন মানুষ এটা করে? !!",
+    "✅They want to gain a better look, I believe. That’s understandable. = তারা একটি ভালো দেখাতে চায়, আমি বিশ্বাস করি। এটি বোঝা যায়। !!",
+    
+    "⚠️Is plastic surgery bad? = প্লাস্টিক সার্জারি খারাপ কি? !!",
+    "✅It’s bad for health in the long run. = এটি দীর্ঘমেয়াদে স্বাস্থ্যের জন্য খারাপ। !!",
+    
+    "⚠️Does it do harm to your health? = এটি কি আপনার স্বাস্থ্য ক্ষতিগ্রস্ত করে? !!",
+    "✅Sure, there are several unhealthy substances in the medical treatments which may be harmful to your body. = অবশ্যই, চিকিৎসা পদ্ধতিতে কিছু অস্বাস্থ্যকর উপাদান থাকে যা আপনার শরীরের জন্য ক্ষতিকর হতে পারে। !!",
+    
+    "⚠️Do you think changing your look is a good thing? = আপনি কি মনে করেন, আপনার চেহারা পরিবর্তন করা একটি ভালো ব্যাপার? !!",
+    "✅Yes, I can’t deny that changing for a better appearance is what people should do. But don’t abuse plastic surgery or you will face serious health problems later on. = হ্যাঁ, আমি অস্বীকার করতে পারি না যে ভালো দেখানোর জন্য পরিবর্তন করা উচিত। তবে প্লাস্টিক সার্জারি অতিরিক্ত ব্যবহার করবেন না, নাহলে পরবর্তীতে বড় ধরনের স্বাস্থ্য সমস্যা হতে পারে। !!",
+    
+    "⚠️Do you think the development of plastic surgery is a positive or negative trend? = আপনি কি মনে করেন প্লাস্টিক সার্জারির উন্নয়ন একটি ইতিবাচক না নেতিবাচক প্রবণতা? !!",
+    "✅It’s more a positive trend, I guess. Thanks to plastic surgery, people who think they don’t look good can now make themselves more attractive. = আমি মনে করি এটি একটি ইতিবাচক প্রবণতা। প্লাস্টিক সার্জারির জন্য, যারা মনে করেন তারা ভালো দেখায় না, তারা এখন নিজেদের আরো আকর্ষণীয় করে তুলতে পারেন। !!",
+    
+    "⚠️Do you care more about your outlook or inner soul? = আপনি কি আপনার বাহ্যিক চেহারা নাকি অন্তরাত্মার ব্যাপারে বেশি মনোযোগ দেন? !!",
+    "✅As for me, the inner soul does matter more although outside appearance is important, too. = আমার জন্য, অন্তরাত্মা বেশি গুরুত্বপূর্ণ, যদিও বাহ্যিক চেহারা গুরুত্বপূর্ণ। !!",
+    
+    "⚠️What is a part of your face that you wish to change? = আপনার মুখের কোন অংশ আপনি পরিবর্তন করতে চান? !!",
+    "✅Although I have some imperfect parts, I have no wish to change anything. I love the natural appearance my parents gave. = যদিও আমার কিছু অসম্পূর্ণ অংশ আছে, তবে আমি কিছু পরিবর্তন করতে চাই না। আমি আমার পিতামাতার দেওয়া প্রাকৃতিক চেহারাকে ভালোবাসি। !!"
+  ]
+},
+
+{
+  "title": "Success",
+  "tex": [
+    "⚠️What success did you achieve? = আপনি কী সাফল্য অর্জন করেছেন? !!",
+    "✅I don’t know if it matters to someone or not, but passing the entrance exam to university was a huge success for me. = আমি জানি না এটা কারও জন্য গুরুত্বপূর্ণ কি না, তবে বিশ্ববিদ্যালয়ের প্রবেশিকা পরীক্ষায় উত্তীর্ণ হওয়া আমার জন্য একটি বড় সাফল্য ছিল। !!",
+    
+    "⚠️When did you get that success? = আপনি কখন সেই সাফল্যটি পেয়েছেন? !!",
+    "✅I got it 6 years ago. It’s been 2 years since I left university. = আমি এটি ৬ বছর আগে পেয়েছি। বিশ্ববিদ্যালয় ছেড়ে ২ বছর হয়ে গেছে। !!",
+    
+    "⚠️Was there anyone who supported you? = আপনার কি কেউ সহায়তা করেছিলেন? !!",
+    "✅My family supported me a lot. My mom prepared good meals for me while my dad helped me with hard math problems. = আমার পরিবার অনেক সাহায্য করেছে। আমার মা আমার জন্য ভালো খাবার তৈরি করতেন, আর আমার বাবা কঠিন গাণিতিক সমস্যা সমাধানে আমাকে সাহায্য করতেন। !!",
+    
+    "⚠️Was it hard to get that success? = সেই সাফল্য অর্জন করা কি কঠিন ছিল? !!",
+    "✅It was hard for me since I wasn’t good at academic subjects at all. = আমার জন্য এটি কঠিন ছিল, কারণ আমি একদমই একাডেমিক বিষয়ে ভালো ছিলাম না। !!",
+    
+    "⚠️What were some difficulties in achieving success? = সাফল্য অর্জনে কিছু কি কষ্ট হয়েছিল? !!",
+    "✅The period before the exam was quite stressful. I was so obsessed with it that I had a serious headache. = পরীক্ষার আগে সময়টা বেশ চাপের ছিল। আমি এতটাই ব্যস্ত ছিলাম যে আমি মাইগ্রেনের মতো মাথাব্যথায় ভুগছিলাম। !!",
+    
+    "⚠️How did you get it? = আপনি এটি কীভাবে অর্জন করেছিলেন? !!",
+    "✅I stuck to books day and night. I just stopped reading and writing when I felt I knew thoroughly about the matters. = আমি দিন-রাত বইয়ের সঙ্গে আটকে ছিলাম। আমি শুধু পড়া এবং লেখা বন্ধ করে দিয়েছিলাম যখন অনুভব করেছিলাম যে বিষয়গুলো আমি সম্পূর্ণরূপে বুঝে ফেলেছি। !!",
+    
+    "⚠️How did you feel when you were successful? = সাফল্য পাওয়ার পর আপনি কীভাবে অনুভব করেছিলেন? !!",
+    "✅I was over the moon then. I was looking forward to campus life. = আমি তখন খুব খুশি ছিলাম। আমি ক্যাম্পাস জীবনের জন্য অধীর আগ্রহে অপেক্ষা করছিলাম। !!",
+    
+    "⚠️How did your life change after that success? = সেই সাফল্যের পর আপনার জীবন কীভাবে পরিবর্তিত হয়েছিল? !!",
+    "✅I had a chance to learn my favorite major at my desired university and then got a high-paying job in an active working environment. = আমি আমার পছন্দের বিষয়ের জন্য কাঙ্ক্ষিত বিশ্ববিদ্যালয়ে পড়ার সুযোগ পেয়েছিলাম এবং তারপর একটি সক্রিয় কর্মপরিবেশে ভালো পারিশ্রমিকের চাকরি পেয়ে গিয়েছিলাম। !!",
+    
+    "⚠️What is your key to success? = আপনার সাফল্যের চাবিকাঠি কী? !!",
+    "✅I don’t particularly have any key to success. Just work hard and try your best, everything good will come to you. = আমার সাফল্যের জন্য বিশেষ কোন চাবিকাঠি নেই। শুধু কঠোর পরিশ্রম করুন এবং সর্বোচ্চ চেষ্টা করুন, সব কিছু ভালো আসবে। !!"
+  ]
 }
+
   
 ]
